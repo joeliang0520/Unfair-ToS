@@ -8,8 +8,8 @@ import os
 import time
 
 # Define your login credentials
-USERNAME = 'jianing046@gmail.com'  # Replace with your actual username
-PASSWORD = 'Maria010315'  # Replace with your actual password
+USERNAME = ''  # Replace with your actual username
+PASSWORD = ''  # Replace with your actual password
 
 # Define the base URL and login path
 BASE_URL = "https://edit.tosdr.org"
@@ -17,7 +17,7 @@ LOGIN_PATH = "/users/sign_in"
 
 # Define paths for saving data
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_DIR = os.path.join(BASE_DIR, "data_raw")
+DATA_DIR = os.path.join(BASE_DIR, "data_all_content")
 
 # Create the data directory if it doesn't exist
 if not os.path.exists(DATA_DIR):

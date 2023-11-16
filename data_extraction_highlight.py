@@ -8,8 +8,8 @@ import os
 import time
 
 # Define your login credentials
-USERNAME = 'jianing046@gmail.com'
-PASSWORD = 'Maria010315'
+USERNAME = ''
+PASSWORD = ''
 
 # Define the base URL and login path
 BASE_URL = "https://edit.tosdr.org"
