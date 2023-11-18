@@ -1,0 +1,36 @@
+
+ All information and files â both in source and compiled form â are provided on an as is basis.
+All information and files â both in source and compiled form â are provided on an as is basis.
+ INFORMATION WE HAVE
+INFORMATION WE HAVE
+ <p>Certain information (e.g.
+a device unique anonymized ID, device model, etc.) is transmitted to us solely for the purpose of measuring non-personally identifiable installation metrics.
+
+<p>
+Certain information (e.g.
+a device unique anonymized ID, device model, etc.) is transmitted to us solely for the purpose of measuring non-personally identifiable installation metrics.
+
+Unless otherwise stated below, this information is not used for any other purpose.
+</p>
+ This information includes Internet Protocol (IP) addresses
+This information includes Internet Protocol (IP) addresses
+ referring and exit pages
+referring and exit pages
+ We do not share your information with companies, organizations, or individuals outside of LineageOS unless one of the following circumstances applies:</p>
+<ul>
+<li>With your consent (Submission of bug reports to our bug tracking platform is considered consent.)</li>
+<li>When legally required.
+We do not share your information with companies, organizations, or individuals outside of LineageOS unless one of the following circumstances applies:
+</p>
+<ul>
+<li>
+With your consent (Submission of bug reports to our bug tracking platform is considered consent.)
+</li>
+<li>
+When legally required.
+We will share the information we have with entities outside of LineageOS if we have a good faith belief that access, use, preservation, or disclosure of the information is necessary to:
+</p>
+<ul>
+<li>
+meet any applicable law, regulation, legal process or enforceable governmental request.
+</li>

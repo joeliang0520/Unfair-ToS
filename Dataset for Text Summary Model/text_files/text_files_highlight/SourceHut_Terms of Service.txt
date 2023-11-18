@@ -1,0 +1,47 @@
+
+<p>
+Accounts are only available to users who are 13 years of age or older, or the
+minimum age for accessing internet services in their country, whichever is
+older.
+
+You are responsible for your account, any activity performed with it, and the
+security of your account credentials.
+</p>
+<p>
+Your account may be disabled without notice at any time, temporarily or
+permanently, for any reason.
+</p>
+You must obey all local, US, and Dutch laws in the course of using the service.
+The following additional types of content are explicitly prohibited:
+</p>
+<ul>
+<li>
+explicit sexual content
+</li>
+obtaining or disclosing private information of other users
+</li>
+<li>
+<p>
+We may disable or terminate all or part of our services, permanently or
+temporarily, at any time with or without notice.
+</p>
+<p>
+This software is provided by the copyright holders and contributors "as is" 
+This software is provided by the copyright holders and contributors "as is" 
+and
+any express or implied warranties, including, but not limited to, the implied
+warranties of merchantability and fitness for a particular purpose are
+disclaimed.
+
+In no event shall the copyright holder or contributors be liable for
+any direct, indirect, incidental, special, exemplary, or consequential damages
+(including, but not limited to, procurement of substitute goods or services.
+loss of use, data, or profits.
+or business interruption) however caused and on
+any theory of liability, whether in contract, strict liability, or tort
+(including negligence or otherwise) arising in any way out of the use of this
+software, even if advised of the possibility of such damage.
+
+If you authorize us to automatically renew
+your service at the end of the term, you will be notified at least 1 week in
+advance of renewal when the price has changed during the previous payment term.

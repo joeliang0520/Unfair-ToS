@@ -1,0 +1,17 @@
+
+ Last update: 21 May 2018
+Last update: 21 May 2018
+ If you register an account with the site, the only information you are required to provide is a username, a password for the account, and a valid email address.
+
+If you register an account with the site, the only information you are required to provide is a username, a password for the account, and a valid email address.
+
+ <p>As the holder of your account, you are ultimately responsible for any actions committed by your account.
+While we do take steps to safeguard information on our end, we do expect our registered users to take any necessary precautions to ensure that their accounts are not compromised.
+
+<p>
+As the holder of your account, you are ultimately responsible for any actions committed by your account.
+While we do take steps to safeguard information on our end, we do expect our registered users to take any necessary precautions to ensure that their accounts are not compromised.
+
+ In the unlikely event that your data has been or may have been breached, you will be immediately alerted through a site-wide announcement, as well as promptly notified by email.</p> 
+In the unlikely event that your data has been or may have been breached, you will be immediately alerted through a site-wide announcement, as well as promptly notified by email.
+</p>

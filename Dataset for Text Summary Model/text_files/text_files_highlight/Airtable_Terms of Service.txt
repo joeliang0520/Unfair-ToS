@@ -1,0 +1,29 @@
+
+To use Airtable, you must be at least 16 years old, and in some circumstances even older (please check your local law for the age of digital consent).
+Except as we otherwise agree in writing or to the extent a restriction is prohibited by law, you agree not to do, and not to assist, permit, or enable any third party or Application (defined below) to do, any of the following:
+</p>
+<ol>
+<li>
+disassemble, reverse engineer, decode, or decompile any part of Airtable;
+</li>
+<li>
+use any robot, spider, scraper, data mining tool, data gathering or extraction tool, or any other automated means, to access, collect, copy or record Airtable;
+You (on behalf of yourself and your Organization, if applicable, and your other licensors) grant, and you represent and warrant that you have all rights necessary to grant, us an irrevocable, transferable, sublicensable (through multiple tiers), fully paid, royalty-free, and worldwide right and license to use, copy, store, modify, and display Your Content: (i) to provide, maintain, improve, and optimize use of Airtable.
+(ii) to perform such other actions as authorized by you in connection with your use of Airtable.
+and (iii) for any other purpose consistent with the Privacy Policy.
+</p>
+You may cancel your Airtable Account at any time through your Account Settings page, though we will be sorry to see you go.
+We may permanently or temporarily terminate or suspend your access to Airtable without notice or liability, without cause or for any reason, including if in our sole discretion you violate any provision of these Terms.
+You may choose to, or we may invite you to, submit comments, feedback, or ideas about Airtable, including about how to improve our Service ("
+<strong>
+Feedback
+</strong>
+").
+You agree that Airtable will own any such Feedback
+Your subscription continues until canceled by you or we terminate your access to or use of Airtable in accordance with these Terms.
+Unless and until canceled by you, all Subscription Plans will automatically renew for renewal terms equal in length to the original Subscription Term.
+You can learn more about our security practices at https://airtable.com/security
+These Terms will be governed by the internal substantive laws of the State of California, without respect to its conflict of laws principles
+<p>
+If you are a new user, you can reject and opt-out of this Arbitration Agreement within thirty (30) days of accepting these Terms by emailing us at legal@airtable.com with your first and last name and stating your intent to opt-out of the Arbitration Agreement.
+YOU AND WE AGREE THAT, BY ENTERING INTO THESE TERMS, YOU AND WE ARE EACH WAIVING THE RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION, COLLECTIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR OTHER REPRESENTATIVE PROCEEDING OF ANY KIND

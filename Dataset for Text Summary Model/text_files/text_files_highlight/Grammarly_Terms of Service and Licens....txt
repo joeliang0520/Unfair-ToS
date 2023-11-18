@@ -1,0 +1,76 @@
+
+ Terms of&nbsp;Service and License AgreementEffective as of October 2, 2020
+Terms of&nbsp;Service and License AgreementEffective as of October 2, 2020
+ YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD (OR IF YOU ARE BETWEEN 13 AND 17 YEARS OLD, INCLUSIVE, THAT YOU ARE USING THE SITE, SERVICES AND/OR SOFTWARE ONLY WITH THE APPROVAL OF YOUR PARENT OR GUARDIAN)
+YOU CONFIRM THAT YOU ARE AT LEAST 18 YEARS OLD (OR IF YOU ARE BETWEEN 13 AND 17 YEARS OLD, INCLUSIVE, THAT YOU ARE USING THE SITE, SERVICES AND/OR SOFTWARE ONLY WITH THE APPROVAL OF YOUR PARENT OR GUARDIAN)
+ YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING,
+YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AGAINST GRAMMARLY AND ITS LICENSORS AND ITS SUPPLIERS ON YOUR OWN BEHALF, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING,
+ YOU MAY NOT CHECK MORE THAN 300&nbsp;DOCUMENTS OR&nbsp;150,000&nbsp;WORDS IN&nbsp;ANY 30-DAY PERIOD OR&nbsp;100&nbsp;DOCUMENTS OR&nbsp;50,000&nbsp;WORDS IN&nbsp;ANY 24-HOUR PERIOD
+YOU MAY NOT CHECK MORE THAN 300&nbsp;DOCUMENTS OR&nbsp;150,000&nbsp;WORDS IN&nbsp;ANY 30-DAY PERIOD OR&nbsp;100&nbsp;DOCUMENTS OR&nbsp;50,000&nbsp;WORDS IN&nbsp;ANY 24-HOUR PERIOD
+ you may not:</p>
+<p>
+<strong>a.</strong> copy, modify or&nbsp;create derivative works based on&nbsp;the Site, Services, Software or&nbsp;Documentation, or&nbsp;any portion(s) of&nbsp;any of&nbsp;the foregoing (individually and collectively, âGrammarly&nbsp;IPâ);</p>
+<p>
+<strong>b.</strong> distribute, transmit, publish or&nbsp;otherwise disseminate any Grammarly&nbsp;IP;</p>
+<p>
+<strong>c.</strong> download or&nbsp;store any Grammarly IP&nbsp;except to&nbsp;the extent explicitly permitted on&nbsp;the Site;</p>
+<p>
+<strong>d.</strong> transfer to&nbsp;any third party any of&nbsp;your rights under this Agreement (except to the extent that an Enterprise Subscriber may permit such number of Authorized Users as has been agreed between the Enterprise Subscriber and Grammarly to access and make use of the Site, Services and Software);</p>
+<p>
+<strong>e.</strong> access or use the Services, Software or Grammarly IP for the benefit of any third party (except to the extent that Authorized Users may access and make use of the Site, the Services and the Software solely for the internal business purposes of their Enterprise Subscriber);</p>
+you may not:
+</p>
+<p>
+<strong>
+a.
+</strong>
+ copy, modify or&nbsp;create derivative works based on&nbsp;the Site, Services, Software or&nbsp;Documentation, or&nbsp;any portion(s) of&nbsp;any of&nbsp;the foregoing (individually and collectively, âGrammarly&nbsp;IPâ);
+</p>
+<p>
+<strong>
+b.
+</strong>
+ distribute, transmit, publish or&nbsp;otherwise disseminate any Grammarly&nbsp;IP;
+</p>
+<p>
+<strong>
+c.
+</strong>
+ download or&nbsp;store any Grammarly IP&nbsp;except to&nbsp;the extent explicitly permitted on&nbsp;the Site;
+</p>
+<p>
+<strong>
+d.
+</strong>
+ transfer to&nbsp;any third party any of&nbsp;your rights under this Agreement (except to the extent that an Enterprise Subscriber may permit such number of Authorized Users as has been agreed between the Enterprise Subscriber and Grammarly to access and make use of the Site, Services and Software);
+</p>
+<p>
+<strong>
+e.
+</strong>
+ access or use the Services, Software or Grammarly IP for the benefit of any third party (except to the extent that Authorized Users may access and make use of the Site, the Services and the Software solely for the internal business purposes of their Enterprise Subscriber);
+</p>
+ <strong>k.</strong> automate access to&nbsp;the Site or&nbsp;the Services, including, without limitation, through the use of APIs, bots, scrapers or&nbsp;other similar devices;</p>
+<strong>
+k.
+</strong>
+ automate access to&nbsp;the Site or&nbsp;the Services, including, without limitation, through the use of APIs, bots, scrapers or&nbsp;other similar devices;
+</p>
+ For your convenience, Grammarly makes available a list of Third Party Components on its website at&nbsp;https://grammarly.com/terms/thirdpartynotices.
+For your convenience, Grammarly makes available a list of Third Party Components on its website at&nbsp;https://grammarly.com/terms/thirdpartynotices.
+ You shall be&nbsp;solely responsible for the security and proper use of&nbsp;all user IDs, passwords or&nbsp;other security devices used in&nbsp;connection with the Site and/or the Services, and shall take all reasonable steps to&nbsp;ensure that they are kept confidential and secure, are used properly and are not disclosed to&nbsp;or&nbsp;used by&nbsp;any other person or&nbsp;entity.
+You shall be&nbsp;solely responsible for the security and proper use of&nbsp;all user IDs, passwords or&nbsp;other security devices used in&nbsp;connection with the Site and/or the Services, and shall take all reasonable steps to&nbsp;ensure that they are kept confidential and secure, are used properly and are not disclosed to&nbsp;or&nbsp;used by&nbsp;any other person or&nbsp;entity.
+ Any links on&nbsp;the Site to&nbsp;third party websites are provided for your convenience only.
+If&nbsp;you choose to&nbsp;access third party websites or&nbsp;obtain products or&nbsp;services from third parties, you do&nbsp;so&nbsp;entirely at&nbsp;your own risk and such access is&nbsp;between you and such third party.
+Grammarly does not warrant or&nbsp;make any representation regarding the legality, accuracy or&nbsp;authenticity of&nbsp;content presented by&nbsp;such websites or&nbsp;any products or&nbsp;services offered by&nbsp;third parties and shall have no&nbsp;liability for any loss or&nbsp;damages arising from the access or&nbsp;use of&nbsp;such websites, products or&nbsp;services.</p>
+Any links on&nbsp;the Site to&nbsp;third party websites are provided for your convenience only.
+If&nbsp;you choose to&nbsp;access third party websites or&nbsp;obtain products or&nbsp;services from third parties, you do&nbsp;so&nbsp;entirely at&nbsp;your own risk and such access is&nbsp;between you and such third party.
+Grammarly does not warrant or&nbsp;make any representation regarding the legality, accuracy or&nbsp;authenticity of&nbsp;content presented by&nbsp;such websites or&nbsp;any products or&nbsp;services offered by&nbsp;third parties and shall have no&nbsp;liability for any loss or&nbsp;damages arising from the access or&nbsp;use of&nbsp;such websites, products or&nbsp;services.
+</p>
+ As between the you, Grammarly and, if applicable, your Enterprise Subscriber, all Feedback shall be exclusively owned by Grammarly, and you hereby make all assignments necessary to accomplish the foregoing ownership, and as a result Grammarly shall be freely entitled to reproduce, prepare derivative works, disclose to third parties, display and perform (publicly or otherwise), sell, lease, license, distribute and otherwise use and exploit any and all such Feedback as it deems appropriate, at its sole discretion, without obligation or liability of any kind to you, your Enterprise Subscriber (if applicable) or any other person or entity.
+As between the you, Grammarly and, if applicable, your Enterprise Subscriber, all Feedback shall be exclusively owned by Grammarly, and you hereby make all assignments necessary to accomplish the foregoing ownership, and as a result Grammarly shall be freely entitled to reproduce, prepare derivative works, disclose to third parties, display and perform (publicly or otherwise), sell, lease, license, distribute and otherwise use and exploit any and all such Feedback as it deems appropriate, at its sole discretion, without obligation or liability of any kind to you, your Enterprise Subscriber (if applicable) or any other person or entity.
+ You shall indemnify, release and hold harmless Grammarly and its parents, subsidiaries, affiliates, licensors and suppliers, and each of&nbsp;their respective officers, directors, employees and agents, from and against any loss, liability (including settlements, judgments, fines and penalties) and costs (including reasonable attorney fees, court costs and other litigation expenses) relating to&nbsp;any claim or&nbsp;demand made by&nbsp;any third party due to&nbsp;or&nbsp;arising out of&nbsp;your access to&nbsp;the Site, use of&nbsp;the Services or&nbsp;Software,
+You shall indemnify, release and hold harmless Grammarly and its parents, subsidiaries, affiliates, licensors and suppliers, and each of&nbsp;their respective officers, directors, employees and agents, from and against any loss, liability (including settlements, judgments, fines and penalties) and costs (including reasonable attorney fees, court costs and other litigation expenses) relating to&nbsp;any claim or&nbsp;demand made by&nbsp;any third party due to&nbsp;or&nbsp;arising out of&nbsp;your access to&nbsp;the Site, use of&nbsp;the Services or&nbsp;Software,
+ If&nbsp;any one or&nbsp;more of&nbsp;the provisions of&nbsp;this Agreement are for any reason held to&nbsp;be&nbsp;invalid, illegal or&nbsp;unenforceable by&nbsp;a&nbsp;court of&nbsp;competent jurisdiction, the remaining provisions of&nbsp;this Agreement shall be&nbsp;unimpaired and shall remain in&nbsp;full force and effect, and the invalid, illegal or&nbsp;unenforceable provision(s) shall be&nbsp;replaced by&nbsp;a&nbsp;valid, legal and enforceable provision or&nbsp;provisions that comes closest to&nbsp;the intent of&nbsp;the parties underlying the invalid, illegal or&nbsp;unenforceable provision(s).</p>
+If&nbsp;any one or&nbsp;more of&nbsp;the provisions of&nbsp;this Agreement are for any reason held to&nbsp;be&nbsp;invalid, illegal or&nbsp;unenforceable by&nbsp;a&nbsp;court of&nbsp;competent jurisdiction, the remaining provisions of&nbsp;this Agreement shall be&nbsp;unimpaired and shall remain in&nbsp;full force and effect, and the invalid, illegal or&nbsp;unenforceable provision(s) shall be&nbsp;replaced by&nbsp;a&nbsp;valid, legal and enforceable provision or&nbsp;provisions that comes closest to&nbsp;the intent of&nbsp;the parties underlying the invalid, illegal or&nbsp;unenforceable provision(s).
+</p>

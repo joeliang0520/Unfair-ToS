@@ -1,0 +1,27 @@
+
+ effective April 28, 2021
+effective April 28, 2021
+ Mozilla VPN (âServiceâ) is a Virtual Private Network in partnership with Mullvad.
+Mozilla VPN (âServiceâ) is a Virtual Private Network in partnership with Mullvad.
+ A Firefox Account is required to use the Service.</p>
+A Firefox Account is required to use the Service.
+</p>
+ You may not transfer, sublicense, resell, or commercially exploit the service.</p>
+You may not transfer, sublicense, resell, or commercially exploit the service.
+</p>
+If you give Mozilla any ideas, suggestions, or feedback about Firefox Accounts or the services you use through your account, you give Mozilla permission to use them for free and without any additional obligations.
+</p>
+ You assure Mozilla that you will not use the Service to infringe anyoneâs rights or violate any law.
+You assure Mozilla that you will not use the Service to infringe anyoneâs rights or violate any law.
+ <li>
+<p>You agree to indemnify and hold Mozilla harmless for any liability or claim that comes from your participation in Firefox Accounts, to the extent permitted by applicable law.</p>
+<li>
+<p>
+You agree to indemnify and hold Mozilla harmless for any liability or claim that comes from your participation in Firefox Accounts, to the extent permitted by applicable law.
+</p>
+ You can choose to end them at any time for any reason by stopping your use of the Service and cancelling your subscription.
+
+You can choose to end them at any time for any reason by stopping your use of the Service and cancelling your subscription.
+
+ California law applies to this contract, except for Californiaâs conflict of law.
+California law applies to this contract, except for Californiaâs conflict of law.

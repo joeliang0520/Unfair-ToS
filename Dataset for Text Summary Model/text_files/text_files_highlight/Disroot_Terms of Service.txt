@@ -1,0 +1,79 @@
+
+
+<p>Any person who is at least 16 years of age can use the Services.</p>
+<p>
+<p>
+Any person who is at least 16 years of age can use the Services.
+</p>
+<p>
+
+<p>We do not allow the use of Disroot email accounts to send spam.
+Any account caught doing so will be disabled without further notice
+<p>
+We do not allow the use of Disroot email accounts to send spam.
+Any account caught doing so will be disabled without further notice
+ Do not engage in the following activities through the services provided by <strong>Disroot.org</strong>:</p>
+<ol>
+<li>
+<b>Harassing and abusing others</b> by engaging in threats, stalking, 
+Do not engage in the following activities through the services provided by 
+<strong>
+Disroot.org
+</strong>
+:
+</p>
+<ol>
+<li>
+<b>
+Harassing and abusing others
+</b>
+ by engaging in threats, stalking, 
+
+<strong>Disroot.org</strong> is hosted in the <strong>Netherlands</strong> and therefore is subject to <strong>Dutch</strong> laws and jurisdiction.</p>
+<p>
+<strong>
+Disroot.org
+</strong>
+ is hosted in the 
+<strong>
+Netherlands
+</strong>
+ and therefore is subject to 
+<strong>
+Dutch
+</strong>
+ laws and jurisdiction.
+</p>
+<p>
+ <strong>Disroot.org</strong> may terminate your service at any time under the following conditions:</p>
+<ol>
+<li>The account has been found to be sending SPAM (excessive amounts of unsolicited email).</li>
+<li>The account has engaged in one or more of the banned activities listed above.</li>
+<strong>
+Disroot.org
+</strong>
+ may terminate your service at any time under the following conditions:
+</p>
+<ol>
+<li>
+The account has been found to be sending SPAM (excessive amounts of unsolicited email).
+</li>
+<li>
+The account has engaged in one or more of the banned activities listed above.
+</li>
+ Therefore, services are offered as is
+Therefore, services are offered as is
+ We reserve the right to modify these conditions at any time.
+We highly evaluate transparency and do our best to make sure users are notified as soon as possible about any major changes via email, social networks and/or on our blog.
+Minor changes will most likely only be published on our blog.<br>
+
+We reserve the right to modify these conditions at any time.
+We highly evaluate transparency and do our best to make sure users are notified as soon as possible about any major changes via email, social networks and/or on our blog.
+Minor changes will most likely only be published on our blog.
+<br>
+<br>
+<br>
+
+You can follow the history of changes on this document on our git repository 
+<strong>
+here
