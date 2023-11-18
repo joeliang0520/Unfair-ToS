@@ -1,0 +1,351 @@
+
+  <ul>
+<li>Get the App</li>
+<li>For Podcasters</li>
+<li>Top Shows</li>
+<li>Blog</li>
+<li>Listen</li>
+</ul>Search<p>Search for ""</p>
+<ul>
+</ul>Sign in<ul>
+<li>Get the App</li>
+<li>For Podcasters</li>
+<li>Top Shows</li>
+<li>Blog</li>
+<li>Listen</li>
+<li>About Castbox</li>
+<li>Newsroom</li>
+<li>FAQs</li>
+</ul>Listen NowCastbox Terms of Service<p>Last Updated: July 29, 2019</p>
+<p>These Terms of Service apply when you access, use or visit our website located at&nbsp;https://castbox.fm&nbsp;(the âSiteâ), the associated mobile application (the âAppâ), and the services provided through the Site and the mobile application developed by Guru Network Limited, its subsidiaries and affiliates (collectively as âCompany,â âwe,â âusâ and âourâ) (the Site, mobile application and these services constituting the âServiceâ).
+These Terms of Service (âToSâ) constitute a legal agreement between the user of our products and services (âuserâ or âyouâ) and the Company.
+It applies when a user accesses, uses or visits our Site or Service.</p>1.
+Consent<p>By visiting the Site, downloading the App, or otherwise using the Service, you indicate your agreement to be bound by these ToS.
+If you do not agree with these ToS, you must not use the Site or Service, and uninstall the App(s) if you have already downloaded them.</p>
+<br>
+<p>We may modify these ToS from time to time.
+We will notify you of material changes in accordance with applicable laws.
+If you do not agree with the proposed changes, you should discontinue your use of the Site and/or Service and uninstall the App(s).
+If you continue using the Site and/or Service after the new terms take effect, you will be bound by the modified ToS.</p>
+<br>2.
+Privacy Policy<p>Our Privacy Policy, located at https://castbox.fm/policy.html, is part of, and governed by these ToS.
+By agreeing to these ToS, you agree to be bound by the terms of the Privacy Policy and Advertising Choices, and agree that we may use information collected from you in accordance with their terms.</p>3.
+Notice Regarding Dispute Resolution<p>These ToS contain provisions that govern how claims you and we may have against each other are resolved, including an agreement and obligation to arbitrate disputes, which, subject to limited exceptions, will require you to submit claims you have against us to binding arbitration, unless you opt-out of arbitration as described below.</p>
+<p>If you do not opt-out of arbitration, you will only be permitted to pursue claims and seek relief (including monetary, injunctive, and declaratory relief) against us on an individual basis, not as part of any class or representative action or proceeding.</p>4.
+Affirmative Representations<p>When you use the Site or Service, you represent that:</p>
+<br>
+<ul>
+<li>your use of the Site or Service does not violate any applicable law or regulation;</li>
+<br>
+<li>You are over the age of 18 or, if not, you are between the ages of 13 and 17 and a third party parent or legal guardian has agreed to these ToS.</li>
+<br>
+<li>you are of sufficient legal age or otherwise have legal capacity to legally enter into these ToS.</li>
+</ul>5.
+Rules Governing User Contributions.
+Prohibited Activities<p>
+<b>A.<i>&nbsp;User Contributions.&nbsp;</i>
+</b>If you are a member of the Service and you are logged in to your member account, you may be able to submit comments, stories and content to the Service (collectively, âContributionsâ).
+You are entirely responsible for the content of, and any harm resulting from, any Contributions that you post on or through the Service.
+When you create or make available a Contribution on or through the Service, you represent and warrant that you:</p>
+<ul>
+<li>own or have sufficient rights to post your Contributions on or through the Service;</li>
+<br>
+<li>will not post Contributions that violate our or any other personâs privacy rights, publicity rights, intellectual property rights (including without limitation copyrights) or contract rights;</li>
+<br>
+<li>have fully complied with any third-party licenses relating to Contributions and shall pay all royalties, fees and any other monies required to be paid in connection with Contributions that you post on or through the Service;</li>
+<br>
+<li>will not post Contributions that:<br>(i) are defamatory, damaging, disruptive, unlawful, inappropriate, offensive, inaccurate, pornographic, vulgar, indecent, profane, hateful, racially or ethnically offensive, obscene, lewd, lascivious, filthy, threatening, excessively violent, harassing, or otherwise objectionable;<br>(ii) incite, encourage or threaten immediate physical harm against another, including but not limited to, Contributions that promote racism, bigotry, sexism, religious intolerance or harm against any group or individual.
+or<br>(iii) contain material that solicits personal information from anyone under the age of 13 or exploits anyone in a sexual or violent manner;</li>
+<br>
+<li>will not post Contributions that contain advertisements or solicit any person to buy or sell products or services.
+and</li>
+<br>
+<li>will not post Contributions that constitute, contain, install or attempt to install or promote spyware, malware or other computer code, whether on our or othersâ computers or equipment, designated to enable you or others to gather information about or monitor the on-line or other activities of another party.</li>
+</ul>
+<br>
+<p>
+<b>B.<i>&nbsp;Prohibited Activities.&nbsp;</i>
+</b>In addition to the obligations described in Section 5(A), you agree that in connection with your use of the Service, you will not:</p>
+<br>
+<ul>
+<li>use the Service for any unauthorized purpose including collecting usernames and/or email addresses of other users by electronic or other means for the purpose of sending unsolicited email or other electronic communications, or engaging in unauthorized framing of, or linking to, the Service without our express written consent;</li>
+<br>
+<li>transmit chain letters, bulk or junk email or interfere with, disrupt, or create an undue burden on the Service or the networks or services connected to the Service, including without limitation, hacking into the Service, or using the system to send unsolicited or commercial emails, bulletins, comments or other communications;</li>
+<br>
+<li>impersonate any other person or entity, sell or let others use your profile or password, provide false or misleading identification or address information, or invade the privacy, or violate the personal or proprietary right, of any person or entity;</li>
+<br>
+<li>post advertisements or solicitations for jobs or employment on the Service, or otherwise use the Service to hire any person to perform work, including, without limitation, posting advertisements or solicitations for modeling jobs or talent or talent scouting positions on the Service;</li>
+<br>
+<li>post on the Service any franchise, pyramid scheme, âclub membership,â distributorship or sales representative agency arrangement or other business opportunity which requires an up-front or periodic payment, pays commissions, or requires recruitment of other members, sub-distributors or sub-agents;</li>
+<br>
+<li>decompile, disassemble, modify, translate, adapt, reverse engineer, create derivative works from or sublicense the Service, or any portion thereof.
+or</li>
+<br>
+<li>circumvent, disable or otherwise interfere with security related features of the Service or features that prevent or restrict use or copying of any Materials (as defined in Section 7) or enforce limitations on use of the Service or the Materials on the Service.</li>
+</ul>
+<br>6.
+Rights in Contributions<p>
+<b>A.<i>&nbsp;Ownership of Contributions.&nbsp;</i>
+</b>We do not claim any ownership rights in the Contributions that you post on or through the Service.
+After posting your Contributions on the Service, you continue to retain any rights you may have in your Contributions, including any intellectual property rights or other proprietary rights associated with your Contributions, subject to the license you grant to us below.</p>
+<br>
+<p>
+<b>B.<i>&nbsp;Grant of License to Us for Contributions.&nbsp;</i>
+</b>By making a Contribution to the Service, you grant us a perpetual, non-exclusive (meaning you are free to license your Contribution to anyone else in addition to us), fully-paid, royalty-free (meaning that we are not required to pay you to use your Contribution), sublicensable (so that we can use affiliates, subcontractors and other partners such as wireless carriers and hosted service providers to make the Service available to you) and worldwide (because the Internet is global in reach) license to:</p>
+<ul>
+<li>Use, edit, format, reproduce, publicly perform, publicly display, disseminate, market and distribute the Contribution in connection with the Service;</li>
+<br>
+<li>Create, distribute and make publicly available excerpts of Contribution for promotional and/or advertising purposes;</li>
+<br>
+<li>Create and use derivative works there from in order to promote the content on the Service.</li>
+</ul>
+<br>The rights you grant in this license are for the limited purpose of operating, promoting, and improving our Services.<p>
+</p>7.
+Include Your RSS Feed into Our Directory<p>Subject to the terms and conditions of this Terms of Service, we grant you a license to access and use our service for the purpose of making the transmissions on and through your RSS Feed available to End Users.
+We reserve the right, in our sole discretion, to exclude, remove or block access to your Feed, including all Feed Content from our service and the directory at any time, for any or no reason, without notice or liability to you.
+By exercising such rights, we assume no liability for transmissions or distributions made by you through the Feed within any territory and exercises no right or ability to control your Feed.</p>
+<p>By entering into these terms, you hereby grant us a non-exclusive, fully paid, royalty-free, sublicensable and revocable license to include your Feed into our directory of podcasts for users throughout the universe or restricted to certain territories.
+You are in control of any intellectual property appearing in our directory and you may remove it at any time by changing your RSS Feed.</p>8.
+Our Intellectual Property Rights<p>Except for your Contributions and the Contributions of other users of the Service, all of the text, copyrightable computer code, trademarks, service marks, and logos contained on the Service (âMaterialsâ), are owned by or licensed to us and are subject to copyright and other intellectual property rights under United States and foreign laws and international conventions.
+The Service and the Materials are for your information and personal use only and not for commercial exploitation.
+We reserve all rights in and to the Service and the Materials.
+If you download or print a copy of the Materials for your own personal use, you must retain all trademark, copyright and other proprietary notices contained in and on the Materials.</p>9.
+Our Management of the Service.
+User Misconduct<p>
+<b>A.<i>&nbsp;Our Right to Manage the Service.&nbsp;</i>
+</b>We reserve the right, but do not undertake the obligation to: (a) monitor or review the Service for violations of these Terms of Service and for compliance with our policies.
+(b) report to law enforcement authorities and/or take legal action against anyone who violates these Terms of Service.
+(c) refuse, restrict access to or the availability of, or remove, delete, edit or disable (to the extent technologically feasible) any Contribution or any portion thereof.
+(d) manage the Service in a manner designed to protect our and third partiesâ rights and property or to facilitate the proper functioning of the Service.
+(e) screen our users or members, or attempt to verify the statements of our users or members and/or (f) monitor disputes between you and other users or to terminate or block you and other users for violating these Terms of Service.</p>
+<br>
+<p>
+<b>B.<i>&nbsp;Interactions with other Users.&nbsp;</i>
+</b>You are solely responsible for your interactions with other users of the Service.
+Please note that there are risks that may arise when dealing with strangers, including persons who may be acting under false pretenses.
+Please choose carefully the information you post on the Service and that you give to other users of the Service.
+You are discouraged from publicly posting your telephone number or street address on the Service.
+Information posted to the Service by other users of the Service may be offensive, harmful or inaccurate, and in some cases may be mislabeled or deceptively labeled.
+You assume all risks associated with dealing with other users with whom you come in contact through the Service.
+Opinions and other statements included in usersâ Contributions do not represent the opinions or statements of the Company and the posting of a Contribution on the Service does not constitute the Companyâs support or endorsement of any opinions or statements expressed in the applicable Contribution.</p>
+<br>
+<p>
+<b>C.<i>&nbsp;Our Right to Terminate Users.
+WITHOUT LIMITING ANY OTHER PROVISION OF these Terms of Service, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION, AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF the Service TO ANY PERSON FOR ANY REASON OR FOR NO REASON AT ALL, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY OR COVENANT CONTAINED IN these Terms of Service, OR OF ANY APPLICABLE LAW OR REGULATION.&nbsp;</i>
+</b>
+</p>
+<br>10.
+Third Party App Stores<p>You acknowledge and agree that the availability of the Service may be dependent on third party websites from which you download the Service, e.g., the Apple App Store or Google Play Store (each a âThird Party App Storeâ).
+You acknowledge that these Terms of Service are between you and Company and not with the applicable Third Party App Store.
+Each Third Party App Store may have its own terms and conditions to which you must agree before downloading the Service from it.
+You agree to comply with, and your license to use the Service is conditioned upon, your compliance with, the applicable Third Party App Store terms and conditions.
+To the extent that other terms and conditions from the applicable Third Party App Store are less restrictive than, or otherwise conflict with, the terms and conditions of these Terms of Service, the more restrictive or conflicting terms and conditions in these Terms of Service will apply.</p>11.
+Premium Services and In-App Purchases<p>We may make certain products and/or services available to users of the Castbox Application in consideration of a subscription fee or other fees (âPremium Servicesâ), including the ability to purchase products, services (âIn-App Productsâ).
+If you choose to use Premium Services or make purchase of In-App Products via a Third Party App Store, then the Third Party App Store will charge your account the applicable fees or charges.</p>
+<br>
+<p>Billing for Premium Services and In-App Purchases will be handled by the Third Party App Store, according to their terms disclosed to you at the time of purchase as well as the general terms for in app purchases that apply to your Account.
+Some Third Party App Store may charge you sales tax, depending on where you live.</p>
+<br>
+<p>If you purchase an auto-recurring periodic subscription through an in app purchase, your Account will continue to be billed for the subscription until you cancel.
+If you do not wish your subscription to renew automatically, or if you want to change or terminate your subscription, you will need to log in to your account and follow instructions to cancel your subscription, even if you have otherwise deleted your account with us or if you have deleted the Castbox application from your device.
+Deleting your member account or deleting the application from your device does not cancel your subscription.
+We will retain all funds charged to your Account until you cancel your subscription through your Account.</p>
+<br>12.
+Third Party Sites<p>The Site may contain links to websites operated by third parties (âThird Party Sitesâ).
+For example, you can access our Facebook, Twitter and Instagram pages through links on the Service, and you may be able to share Contributions or other information with Third Party Sites through links on the Service.
+however, we do not own or operate the Third Party Sites, and we have not reviewed, and cannot review, all of the material, including goods or services, made available through Third Party Sites.
+The availability of these links on the Service does not represent, warrant or imply that we endorse any Third Party Sites or any materials, opinions, goods or services available on them.
+Third party materials accessed through or used by means of the Third Party Sites may also be protected by copyright and other intellectual property laws.<b>
+<i>&nbsp;These Terms of SErvice DO NOT APPLY TO THIRD PARTY SITES.
+BEFORE VISITING A THIRD PARTY SITE through links or other MEANS provided on or through the service, you SHOULD REVIEW THE THIRD PARTY SITEâS TERMS AND CONDITIONS and PRIVACY POLICY, AND INFORM yourself OF THE REGULATIONS, POLICIES AND PRACTICES OF THESE THIRD PARTY SITES.&nbsp;</i>
+</b>
+</p>13.&nbsp;BOX.
+Wallet.
+BOX Earn and Spend Opportunities<p>We facilitate your access to a decentralized blockchain ecosystem stewarded by ContentBox.
+You can find out more about BOX and its Ecosystem at https://contentbox.one.</p>
+<br>
+<p>You agree that (a) you are using BOX at your own risk, on an as-is and where-is basis.
+(b) you will abide by any policies made available by the ContentBox Ecosystem.
+(c) BOXs are not securities, are not registered with any government entity as a security and shall not in any case be considered as such (d) BOX is not representing or warranting that BOX has any real monetary value.
+(e) BOX may discontinue its integration with the Castbox at any time for any reason.
+and (e) We are not responsible for any BOX applications or opportunities developed by third parties.</p>
+<br>
+<p>
+<b>(1)&nbsp.
+Compliance</b>
+</p>
+<p>You understand and agree that it is your obligation to ensure compliance with any legislation relevant to your country of domicile concerning use of Box, and that We should not accept any liability for any illegal or unauthorized use of Our service and use and buying of the BOX.
+You agree to be solely responsible for any applicable taxes imposed on BOXs purchased hereunder.</p>
+<br>
+<p>
+<b>(2)&nbsp.
+Wallet</b>
+</p>
+<p>We may make available wallet services within Castbox for you to store BOX, including BOX that you have earned through Castbox.
+The wallet is accessible to any person that has access to your account with us.
+Accordingly, you acknowledge and agree that it is your responsibility to maintain the safety and security of your password to the Castbox and that any person having access to your account may be able to spend BOX that you have stored in your wallet.</p>
+<br>
+<p>
+<b>(3)&nbsp.
+BOX Earn and Spend Opportunities</b>
+</p>
+<p>We may make available to you opportunities from us or third parties to earn and spend BOX.
+While some of these opportunities will be integrated within the Castbox application and, accordingly, may appear as though they are part of Castbox, some of these opportunities are from third parties and not Castbox.
+While we may bring to your attention that an opportunity is made available by a third party, it is your responsibility to carefully review each opportunity.</p>
+<br>
+<p>
+<b>(4)&nbsp.
+BOX Marketplace Earn and Spend Opportunities</b>
+</p>
+<p>We may make available to you access to the marketplace that is made available by Contentbox, where you may explore opportunities to earn and spend BOX.
+You acknowledge and agree that these opportunities are not endorsed by us.
+It is your sole responsibility to exercise judgement in evaluating and participating in any such opportunities and we are not responsible for any earn and spend opportunities made available on the BOX Marketplace.
+You understand and agree that We shall not be held liable to and shall not accept any liability, obligation or responsibility whatsoever for any change of the value of the BOX or other Cryptocurrency.</p>
+<br>
+<p>
+<b>(5)&nbsp.
+Irreversibility of BOX Transactions</b>
+</p>
+<p>You acknowledge that BOX transactions, including each time you spend or transfer BOX, are irreversible and that it is your sole responsibility to ensure you make each decision to spend or transfer BOX carefully.</p>
+<br>14.&nbsp;Legal Disputes and Arbitration Agreement<p>Please Read This Following Clause Carefully â It May Significantly Affect Your Legal Rights, Including Your Right to File a Lawsuit in Court</p>
+<br>
+<p>
+<b>(1)&nbsp.
+Initial Dispute Resolution</b>
+</p>
+<p>We are available by email at the address provided in the âHow to Contact Usâ Section to address any concerns a user may have regarding the Service.
+Most concerns may be quickly resolved in this manner.
+For any dispute you have with the Company, you agree to first contact us and attempt to resolve the dispute with us informally.
+We each agree to resolve any dispute arising out of or in connection with, or relating to this Agreement directly through consultation and good faith negotiations, which shall be a precondition to either party initiating a lawsuit or arbitration.</p>
+<br>
+<p>
+<b>(2)&nbsp.
+Agreement to Binding Arbitration</b>
+</p>
+<p>If we do not reach an agreed upon solution within a period of thirty (30) days from the time informal dispute resolution is pursued pursuant to section âInitial Dispute Resolutionâ above, then either party may initiate binding arbitration.</p>
+<br>
+<p>All claims arising out of or relating to these ToS (including its formation, performance and breach), the partiesâ relationship with each other and/or your use of the Service shall be finally settled by binding arbitration administered on a confidential basis by the American Arbitration Association in accordance with the provisions of the Consumer Arbitration Rules of the American Arbitration Association (the âAAAâ), excluding any rules or procedures governing or permitting class actions.
+The arbitrator, and not any federal, state or local court or agency, shall have exclusive authority to resolve all disputes arising out of or relating to the interpretation, applicability, enforceability or formation of these ToS, including, but not limited to, any claim that all or any part of these ToS is void or voidable.
+The arbitrator shall be empowered to grant whatever relief would be available in a court under law or in equity.
+The arbitratorâs award shall be binding on the parties and may be entered as a judgment in any court of competent jurisdiction.
+The interpretation and enforcement of these ToS shall be subject to the Federal Arbitration Act.</p>
+<br>
+<p>
+<b>THE AAAâS RULES GOVERNING THE ARBITRATION MAY BE ACCESSED AT WWW.ADR.ORG OR BY CALLING THE AAA AT 1.800.778.7879.
+TO THE EXTENT THE FILING FEE FOR THE ARBITRATION EXCEEDS THE COST OF FILING A LAWSUIT, WE WILL PAY THE ADDITIONAL COST.
+IF WE ARE REQUIRED TO PAY THE ADDITIONAL COST OF THE FILING FEES, YOU SHOULD SUBMIT A REQUEST FOR PAYMENT OF FEES TO AAA ALONG WITH YOUR FORM FOR INITIATING THE ARBITRATION, AND WE WILL MAKE ARRANGEMENTS TO PAY ALL NECESSARY FEES DIRECTLY TO AAA.
+THE ARBITRATION RULES ALSO PERMIT YOU TO RECOVER ATTORNEYâS FEES IN CERTAIN CIRCUMSTANCES.</b>
+</p>
+<br>
+<p>
+<b>THE PARTIES UNDERSTAND THAT, ABSENT THIS MANDATORY PROVISION, THEY WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL.
+THEY FURTHER UNDERSTAND THAT, IN SOME INSTANCES, THE COSTS OF ARBITRATION COULD EXCEED THE COSTS OF LITIGATION AND THE RIGHT TO DISCOVERY MAY BE MORE LIMITED IN ARBITRATION THAN IN COURT.</b>
+</p>
+<br>
+<p>
+<b>(3)&nbsp.
+Class Action and Class Arbitration Waiver</b>
+</p>
+<p>You and the Company each further agree that any arbitration shall be conducted in your respective individual capacities only and not as a class action or other representative action, and you and the Company each expressly waive your respective right to file a class action or seek relief on a class basis.
+If any court or arbitrator determines that the class action waiver set forth in this paragraph is void or unenforceable for any reason or that an arbitration can proceed on a class basis, then the arbitration provision set forth above in Section âAgreement to Binding Arbitration Aboveâ shall be deemed null and void in its entirety and the parties shall be deemed to have not agreed to arbitrate disputes.</p>
+<br>
+<p>
+<b>(4)&nbsp.
+Exception - Small Claims Court Claims</b>
+</p>
+<p>Notwithstanding the partiesâ agreement to resolve all disputes through arbitration, either party may seek relief in a small claims court for disputes or claims within the scope of that courtâs jurisdiction.</p>
+<br>
+<p>
+<b>(5)&nbsp.
+30 Day Right to Opt Out</b>
+</p>
+<p>You have the right to opt-out and not be bound by the arbitration and class action waiver provisions set forth in this Section âArbitration Agreementâ by sending written notice of your decision to opt-out to the address provided in the âHow to Contact Usâ Section.</p>
+<br>
+<p>The notice must be sent by you within thirty (30) days of your downloading of the App, otherwise you will be bound to arbitrate disputes in accordance with the terms of those sections.
+If you opt-out of these arbitration provisions, we also will not be bound by them.</p>
+<br>
+<p>
+<b>(6)&nbsp;Exclusive Venue for Litigation</b>
+</p>
+<p>To the extent that the arbitration provisions set forth in above do not apply, the parties agree that any litigation between them shall be filed exclusively in state or federal courts located in San Francisco County, California (except for small claims court actions which may be brought in the county where you reside).
+The parties expressly consent to exclusive jurisdiction in California for any litigation other than small claims court actions.</p>
+<br>15.&nbsp;Warranty Disclaimer.
+Limitation on Liability<p>
+<b>A.&nbsp;<i>Disclaimer of Warranties</i>
+</b>
+</p>
+<br>
+<ul>
+<li>TO THE EXTENT PERMITTED BY APPLICABLE LAW, ALL Materials, CONTRIBUTIONS OR ANY OTHER MATERIALS OR ITEMS PROVIDED THROUGH the Service ARE PROVIDED âAS ISâ AND âAS AVAILABLE,â WITHOUT WARRANTY OR CONDITIONS OF ANY KIND.
+BY OPERATING the Service, WE DO NOT REPRESENT OR IMPLY THAT WE ENDORSE ANY CONTRIBUTIONS OR ANY OTHER MATERIALS OR ITEMS AVAILABLE ON OR LINKED TO BY the Service, INCLUDING WITHOUT LIMITATION, CONTENT HOSTED ON THIRD PARTY SITES, OR THAT WE BELIEVE CONTRIBUTIONS OR ANY OTHER MATERIALS OR ITEMS TO BE ACCURATE, USEFUL OR NON-HARMFUL.
+WE CANNOT GUARANTEE AND DO NOT PROMISE ANY SPECIFIC RESULTS FROM USE OF the Service.
+NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM US SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN these Terms of SErvice.
+YOU AGREE THAT YOUR USE OF The Service WILL BE AT YOUR SOLE RISK.
+TO THE FULLEST EXTENT PERMITTED BY LAW, WE AND EACH OF OUR ADVERTISERS, LICENSORS, SUPPLIERS, OFFICERS, DIRECTORS, INVESTORS, EMPLOYEES, AGENTS, SERVICE PROVIDERS AND OTHER CONTRACTORS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH the Service AND YOUR USE THEREOF.</li>
+<br>
+<li>TO THE EXTENT PERMITTED BY APPLICABLE LAW, WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY, RELIABILITY, TIMELINESS OR COMPLETENESS OF the serviceâs CONTENT, THE CONTENT OF ANY SITE LINKED TO the service, CONTRIBUTIONS, INFORMATION OR ANY OTHER ITEMS OR MATERIALS ON the service OR LINKED TO BY the Service.
+WE ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (A) ERRORS, MISTAKES OR INACCURACIES OF CONTENT AND MATERIALS, (B) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF the SERVICE, (C) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION STORED THEREIN, (D) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM the service, (E) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE, WHICH MAY BE TRANSMITTED TO OR THROUGH the service BY ANY THIRD PARTY, AND/OR (F) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA the Service.</li>
+</ul>
+<br>
+<p>
+<b>B.&nbsp;<i>Limited Liability.</i>
+</b>
+</p>
+<br>
+<p>TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT DAMAGES ARISING FROM YOUR USE OF the Service, CONTRIBUTIONS, MATERIALS OR ANY OTHER CONTENT THEREIN.
+NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED IN These Terms of SErvice, OUR LIABILITY TO YOU IN RESPECT OF ANY LOSS OR DAMAGE SUFFERED BY YOU AND ARISING OUT OF OR IN CONNECTION WITH These Terms of Service,  
+ WHETHER IN CONTRACT, TORT OR FOR BREACH OF STATUTORY DUTY OR IN ANY OTHER WAY SHALL NOT EXCEED $50.
+ </p>
+<br>16.&nbsp;Notice to New Jersey Users<p>Notwithstanding any terms set forth in these Terms of Service, if any of the provisions set forth in Section 13 are held unenforceable, void or inapplicable under New Jersey law, then any such provision shall not apply to you but the rest of these Terms of Service shall remain binding on you and the Company.
+In addition, for New Jersey residents, the limitation on liability is inapplicable where attorneysâ fees, court costs, or other damages are mandated by statue.
+Notwithstanding any provision in these Terms of Service, nothing in these Terms of Service is intended to, nor shall it be deemed or construed to, limit any rights available to you under the Truth-in-Consumer Contract, Warranty and Notice Act.</p>17.&nbsp;Notice to California Users<p>Under California Civil Code Section 1789.3, users located in California entitled to the following consumer rights notice: If a user has a question or complaint regarding the Service, please send an email to&nbsp;contact@castbox.fm&nbsp;California residents may reach the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by mail at 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.</p>
+<br>18.&nbsp;Digital Millennium Copyright Act Policy<p>We follow the notice and take down provisions of the Digital Millennium Copyright Act (the âDMCAâ).
+In addition, we may terminate the account and access rights of any repeat infringer in appropriate circumstances.
+If you are a copyright owner or the legal agent of a copyright owner, and you believe that any user Contribution on the Service infringes upon your copyrights, you may submit a notification pursuant to our DMCA Policy by sending an email to&nbsp;contact@castbox.fm&nbsp.
+with a subject line beginning âDMCA Noticeâ that contains the following information:</p>
+<br>
+<ul>
+<li>A physical or electronic signature of a person authorized to act on behalf of the owner or an agent of an exclusive right that is allegedly infringed;</li>
+<br>
+<li>Identification of the copyright claimed to have been infringed;</li>
+<br>
+<li>Identification of the material that is claimed to be infringing, and where it is located in the App or Service, as applicable;</li>
+<br>
+<li>Information reasonably sufficient to permit us to contact you;</li>
+<br>
+<li>A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law, and;</li>
+<br>
+<li>A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.</li>
+</ul>
+<br>
+<p>We respect the intellectual property rights of others and will respond to clear notices of alleged infringement.
+You acknowledge that if you fail to comply with all of the requirements of this section, your notice may not be valid.</p>
+<br>19.&nbsp;Independent Contractors<p>Nothing in these Terms of Service shall be deemed to create an agency, partnership, joint venture, employer-employee or franchisor-franchisee relationship of any kind between us and any user.</p>20.&nbsp;Non-Waiver<p> 
+ Our failure to exercise or enforce any right or provision of these Terms of Service shall not operate as a waiver of the applicable right or provision
+ </p>21.&nbsp;Severability<p>These Terms of Service operate to the fullest extent permissible by law.
+ 
+ If any provision or part of a provision of these Terms of Service is unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Service and shall not affect the validity and enforceability of any remaining provisions.</p>
+ 22.&nbsp;Assignment<p>We may assign our rights under these Terms of Service without your approval.</p>23.&nbsp;No Modifications by Our Employees<p>If any of our employees offers to modify the terms of these Terms of Service, he or she is not acting as an agent for us or speaking on our behalf.
+You may not rely, and should not act in reliance on, any statement or communication from our employees or anyone else purporting to act on our behalf.</p>24.&nbsp;Governing Law<p> 
+ This TOS will in all respects be governed by and construed and enforced in accordance with the laws of the State of California (without giving effect to any choice or conflict of laws).
+ 
+The United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement.</p>25.&nbsp;Contact Information<p>If you have any questions about these Terms of Service or your account, please contact us at&nbsp;contact@castbox.fm&nbsp;.</p>
+<p>Castbox is the best free podcast app with over 259 million volumes of content on Android, Apple iPhone, Amazon Alexa, Google Home, Carplay and Android Auto.</p>AboutAbout CastboxNewsroomFAQsConnectMailcontact@castbox.fmPrivacy Policy|Cookies Policy|Terms of Service|Wikipedia|Â© Guru Network 2023<ul>
+<li>
+</li>
+<li>About</li>
+<li>About Castbox</li>
+<li>Newsroom</li>
+<li>FAQs</li>
+</ul>
+<ul>
+<li>
+</li>
+<li>Connect</li>
+<li>Telegram</li>
+<li>Facebook</li>
+<li>Twitter</li>
+<li>Instagram</li>
+<li>contact@castbox.fm</li>
+</ul>We and our partners use cookies to personalize your experience, to show you ads based on your interests, and for measurement and analytics purposes.
+By using our website and our services, you agree to our use of cookies as described in our Cookie Policy.Got it!  
