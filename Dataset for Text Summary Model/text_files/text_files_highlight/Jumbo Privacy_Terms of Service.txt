@@ -1,0 +1,10 @@
+
+ <p>By using the Delete My Data functionality, You authorize Jumbo Privacy to automatically scan your Gmail Google account in your phone to discover how many companies and services you have been interacting with.</p>
+<p>
+By using the Delete My Data functionality, You authorize Jumbo Privacy to automatically scan your Gmail Google account in your phone to discover how many companies and services you have been interacting with.
+</p>
+
+<li>You should not use Jumbo App if You are less than 13 years old of age, or without Your parents and/or legal guardian prior written approval if You are between 13 and 18 years old.</li>
+<li>
+You should not use Jumbo App if You are less than 13 years old of age, or without Your parents and/or legal guardian prior written approval if You are between 13 and 18 years old.
+</li>
