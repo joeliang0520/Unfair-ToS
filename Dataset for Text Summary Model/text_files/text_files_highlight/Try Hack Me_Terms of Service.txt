@@ -1,0 +1,97 @@
+
+ Last updated: 2020/12/02
+Last updated: 2020/12/02
+ <ol>
+<li>The materials on TryHackMe's website are provided on an 'as is' basis.
+<ol>
+<li>
+The materials on TryHackMe's website are provided on an 'as is' basis.
+ </li>
+<li>Further, TryHackMe does not warrant or make any representations concerning the accuracy, likely results,
+or reliability of the use of the materials on its website or otherwise relating to such materials or on
+any sites linked to this site.
+</li>
+<li>
+Further, TryHackMe does not warrant or make any representations concerning the accuracy, likely results,
+or reliability of the use of the materials on its website or otherwise relating to such materials or on
+any sites linked to this site.
+
+<p>TryHackMe may revise these terms of service for its website at any time without notice.
+<p>
+TryHackMe may revise these terms of service for its website at any time without notice.
+ These terms and conditions are governed by and construed in accordance with the laws of London, United
+Kingdom and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+These terms and conditions are governed by and construed in accordance with the laws of London, United
+Kingdom and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+ TryHackMe reserves the right to discontinue service for any user that violates these terms and conditions,
+and the user conduct
+TryHackMe reserves the right to discontinue service for any user that violates these terms and conditions,
+and the user conduct
+ We reserve the right to offer a refund.
+We reserve the right to offer a refund.
+ .
+We hold the right to close any account (without any form of refunds) at our discretion.
+.
+We hold the right to close any account (without any form of refunds) at our discretion.
+ TryHackMe adheres to GDPR(general data protection regulation) and are GDPR compliant when collecting and
+processing user information.
+
+TryHackMe adheres to GDPR(general data protection regulation) and are GDPR compliant when collecting and
+processing user information.
+
+ .
+Some of these statics are sent to the third party analytics service: Amplitude
+.
+Some of these statics are sent to the third party analytics service: Amplitude
+ What do we use your data for
+<p> We use the information entered in the profile to help assess how to create appropriate content for the
+users.
+Depending on the users occupation and skill levels, we aim to create content the better suits their
+needs.
+When running specific events using TryHackMe such as CTFs, users who sign up to such events on the
+platform are explicity notified that their information is used by organizing parties involved in the event.
+The gathering,
+processing and use of the data follows the aformentioned processes.
+</p>
+
+What do we use your data for
+
+<p>
+ We use the information entered in the profile to help assess how to create appropriate content for the
+users.
+Depending on the users occupation and skill levels, we aim to create content the better suits their
+needs.
+When running specific events using TryHackMe such as CTFs, users who sign up to such events on the
+platform are explicity notified that their information is used by organizing parties involved in the event.
+The gathering,
+processing and use of the data follows the aformentioned processes.
+
+</p>
+ The right to access: you have the right to request TryHackMe for copies of your personal data.
+We may
+charge you a small fees for this service
+The right to access: you have the right to request TryHackMe for copies of your personal data.
+We may
+charge you a small fees for this service
+
+<li>The right to rectification: you have the right to request that TryHackMe correct any information you
+believe is inaccurate.
+you also have the right to request our comapny to complete the information you
+believe is incomplete </li>
+<li>
+The right to rectification: you have the right to request that TryHackMe correct any information you
+believe is inaccurate.
+you also have the right to request our comapny to complete the information you
+believe is incomplete 
+</li>
+ Google will track your behaviour across the
+web using cookies
+Google will track your behaviour across the
+web using cookies
+ TryHackMe only uses this information
+internally and does not send, distribute or sell this data to any other third party, apart from HotJar(where
+this data is stored).</p>
+TryHackMe only uses this information
+internally and does not send, distribute or sell this data to any other third party, apart from HotJar(where
+this data is stored).
+</p>

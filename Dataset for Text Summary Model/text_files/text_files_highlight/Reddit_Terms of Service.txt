@@ -1,0 +1,56 @@
+
+Reddit User Agreement Effective October 15, 2020.
+Last Revised September 15, 2020
+ <p>Children under the age of 13 are not allowed to create an Account or otherwise use the Services.
+Additionally, you must be over the age required by the laws of your country to create an account or otherwise use the Services, or we need to have received verifiable consent from your parent or legal guardian.</p>
+<p>In addition, certain of our Services or portions of our Services require you to be 18 years of age or older, so please read all notices and any Additional Terms carefully when you access the Services.
+We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time
+p>
+<p>
+You are solely responsible for the information associated with your Account and anything that happens related to your Account
+You will not license, sell, or transfer your Account without our prior written approval.
+</p>
+The Services may contain information, text, links, graphics, photos, videos, or other materials (â
+<strong>
+Content
+</strong>
+â), including Content created or submitted to the Services by you or through your Account (â
+<strong>
+Your Content
+</strong>
+â).
+We take no responsibility for and we do not expressly or implicitly endorse, support, or guarantee the completeness, truthfulness, accuracy, or reliability of any of Your Content.
+ Because you alone are responsible for Your Content, you may expose yourself to liability if you post or share Content without all necessary rights.
+<p>
+You retain any ownership rights you have in Your Content
+ <p>When Your Content is created with or submitted to the Services, you grant us a worldwide, royalty-free, perpetual, irrevocable,
+ to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world.
+to use, copy, modify, adapt, prepare derivative works of, distribute, store, perform, and display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed anywhere in the world.
+display Your Content and any name, username, voice, or likeness provided in connection with Your Content in all media formats and channels now known or later developed
+This license includes the right for us to make Your Content available for syndication, broadcast, distribution, or publication by other companies, organizations, or individuals who partner with Reddit.
+you irrevocably waive any claims and assertions of moral rights or attribution with respect to Your Content.
+Any ideas, suggestions, and feedback about Reddit or our Services that you provide to us are entirely voluntary, and you agree that Reddit may use such ideas, suggestions, and feedback without compensation or obligation to you.
+we may, in our sole discretion, delete or remove Your Content at any time and for any reason
+ <p>The Services may contain links to third-party websites, products, or services, which may be posted by advertisers, our affiliates, our partners, or other users (â<strong>Third-Party Content</strong>â).
+Third-Party Content is not under our control, and we are not responsible for any third partyâs websites, products, or services.
+Use the Services to violate applicable law
+ If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Redditâs Designated Agent by filling out our Copyright Report Form or Trademark Report Form, or by contacting:</p>
+<p>Copyright Agent<br>Reddit, Inc.<br>1455 Market Street, Suite 1600<br>San Francisco, CA 94103<br>copyright@reddit.com</p>
+ If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our Copyright Counter Notice Form or to our Copyright Agent (contact information provided above).
+Please see 17 U.S.C.
+Â§ 512(g)(3) for the requirements of a proper counter notification.
+ If you submit your Payment Information, you agree to pay all costs that you incur, and you give us permission to charge you when payment is due for an amount that includes these costs and any applicable taxes and fees.</p>
+ Except to the extent prohibited by law, you agree to defend, indemnify, and hold us, our directors, officers, employees, affiliates, agents, contractors, third-party service providers, and licensors (the â<strong>Reddit Entities</strong>â) harmless from any claim or demand, including costs and attorneysâ fees, made by any third party due to or arising out of (a) your use of the Services, (b) your violation of these Terms, (c) your violation of applicable laws or regulations, or (d) Your Content.
+We reserve the right to control the defense of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.
+THE SERVICES ARE PROVIDED âAS ISâ AND âAS AVAILABLEâ WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED
+ INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, TITLE, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+ REDDIT ENTITIES DO NOT WARRANT THAT THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR FREE.
+ WHILE REDDIT ATTEMPTS TO MAKE YOUR ACCESS TO AND USE OF OUR SERVICES SAFE, WE DO NOT REPRESENT OR WARRANT THAT OUR SERVICES OR SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.</p>
+ IN NO EVENT AND UNDER NO THEORY OF LIABILITY, INCLUDING CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, WARRANTY, OR OTHERWISE, WILL THE REDDIT ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, OR LOST PROFITS ARISING FROM OR RELATING TO THESE TERMS OR THE SERVICES, INCLUDING THOSE ARISING FROM OR RELATING TO CONTENT MADE AVAILABLE ON THE SERVICES THAT IS ALLEGED TO BE DEFAMATORY, OFFENSIVE, OR ILLEGAL.
+ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM.
+IN NO EVENT AND UNDER NO THEORY OF LIABILITY, INCLUDING CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, WARRANTY, OR OTHERWISE, WILL THE REDDIT ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, OR LOST PROFITS ARISING FROM OR RELATING TO THESE TERMS OR THE SERVICES, INCLUDING THOSE ARISING FROM OR RELATING TO CONTENT MADE AVAILABLE ON THE SERVICES THAT IS ALLEGED TO BE DEFAMATORY, OFFENSIVE, OR ILLEGAL.
+ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM.
+ACCESS TO, AND USE OF, THE SERVICES IS AT YOUR OWN DISCRETION AND RISK, AND YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR DEVICE OR COMPUTER SYSTEM, OR LOSS OF DATA RESULTING THEREFROM.
+All disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California.
+Our failure to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
+If any provision of these Terms is, for any reason, held to be illegal, invalid, or unenforceable, the rest of the Terms will remain in effect

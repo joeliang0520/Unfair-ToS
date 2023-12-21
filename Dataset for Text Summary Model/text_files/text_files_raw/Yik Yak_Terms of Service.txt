@@ -1,0 +1,73 @@
+
+  <p>
+<strong>Last Updated: March 30, 2023</strong>
+</p>
+<p>Please read this Terms of Use agreement (the â<strong>Terms of Use</strong>â) carefully.
+The Sidechat mobile application, the Yik Yak mobile application (each, a â<strong>Mobile App</strong>â) and the services and resources available or enabled via the Mobile Apps (each a â<strong>Service</strong>â and collectively, the â<strong>Services</strong>â), are controlled by Flower Ave Inc.
+(â<strong>Flower Ave</strong>â, â<strong>we</strong>â, or â<strong>us</strong>â).
+These Terms of Use, along with all supplemental terms that may be presented to you for your review and acceptance (collectively, the â<strong>Agreement</strong>â), govern your access to and use of the Services.
+By clicking on the âI Acceptâ button, completing the registration process, downloading or using either of the Mobile Apps, or otherwise accessing or using any of the Services, you represent that (1) you have read, understand, and agree to be bound by the Agreement, (2) you are of legal age to form a binding contract with Flower Ave, and (3) you have the authority to enter into the Agreement.
+The term â<strong>you</strong>â refers to the individual identified during the registration process.
+<strong>If you do not agree to be bound by the Agreement, you may not access or use any of the Services</strong>.</p>
+<p>
+<strong>IF YOU ARE A U.S.
+RESIDENT,</strong> PLEASE BE AWARE THAT SECTION 14 (ARBITRATION AGREEMENT) OF THE AGREEMENT BELOW CONTAINS PROVISIONS GOVERNING HOW ANY DISPUTES BETWEEN US WILL BE RESOLVED.
+IN PARTICULAR, IT CONTAINS AN ARBITRATION AGREEMENT WHICH WILL, WITH LIMITED EXCEPTIONS, REQUIRE DISPUTES BETWEEN US TO BE SUBMITTED TO BINDING AND FINAL ARBITRATION.
+UNLESS YOU OPT OUT OF THE ARBITRATION AGREEMENT: (1) YOU WILL ONLY BE PERMITTED TO PURSUE CLAIMS AND SEEK RELIEF AGAINST US ON AN INDIVIDUAL BASIS, NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY CLASS OR REPRESENTATIVE ACTION OR PROCEEDING.
+AND (2) YOU ARE WAIVING YOUR RIGHT TO PURSUE CLAIMS AND SEEK RELIEF IN A COURT OF LAW AND TO HAVE A JURY TRIAL.</p>
+<p>THE SERVICES ARE INTENDED FOR PERSONAL USE ONLY, AND ARE NOT INTENDED FOR USE IN A BUSINESS OR COMMERCIAL CAPACITY AND SUCH USE IS EXPRESSLY PROHIBITED.
+BY USING THE SERVICES, YOU REPRESENT AND WARRANT THAT YOU ARE DOING SO IN YOUR CAPACITY AS A CONSUMER.
+FLOWER AVE EXCLUDES ALL LIABILITY FOR BUSINESS OR COMMERCIAL LOSSES RESULTING FROM YOUR USE OF THE SERVICES.</p>
+<p>Please be aware that Section 1.4 (Flower Ave Communications) of the Agreement below contains your consent to receive communications from us, including, as applicable, via text, email, and push notification.</p>
+<p>Please note that the Agreement is subject to change by Flower Ave in its sole discretion at any time.
+When changes are made, Flower Ave will make a copy of the updated Agreement available through the Services and update the âLast Updatedâ date at the top of these Terms of Use.
+If we make any material changes to the Agreement, we will provide notice of such material changes on the Mobile App.
+Any changes to the Agreement will be effective immediately for new users of the Services and will be effective for existing Registered Users (as defined below) upon the earlier of (a) thirty (30) days after the âLast Updatedâ date at the top of these Terms of Use, or (b) your consent to and acceptance of the updated Agreement if Flower Ave provides a mechanism for your immediate acceptance in a specified manner (such as a click-through acceptance), which Flower Ave may require before further use of the Services is permitted.
+If you do not agree to the updated Agreement, you must stop using all Services upon the effective date of the updated Agreement.
+Otherwise, your continued use of any of the Services after the effective date of the updated Agreement constitutes your acceptance of the updated Agreement.
+Please regularly check the Mobile App to view the then-current Agreement.
+You agree that Flower Aveâs continued provision of the Services is adequate consideration for the changes in the updated Agreement.</p>
+1.
+Use of the Services
+<p>The Services, and the information and content available on them, are protected by applicable intellectual property laws.
+Unless subject to a separate license between you and Flower Ave, your right to use any and all Services is subject to the Agreement.</p>
+<p>
+<strong>1.1 Mobile App License</strong>
+</p>
+<p>Subject to your compliance with the Agreement, Flower Ave grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to download, install and use a copy of the Mobile App on a single mobile device that you own or control and to run such copy of the Mobile App solely for your own personal purposes.
+Furthermore, with respect to any Mobile App accessed through or downloaded from the Apple App Store (an âApp Store Sourced Applicationâ), you will only use such App Store Sourced Application (a) on an Apple-branded product that runs iOS or macOS (Appleâs proprietary operating systems) and (b) as permitted by the âUsage Rulesâ set forth in the Apple App Store Terms of Service.
+Notwithstanding the first sentence in this Section 1.1, with respect to any Mobile App accessed through or downloaded from the Google Play store (a âGoogle Play Sourced Applicationâ), you may have additional license rights with respect to use of such Google Play Sourced Application on a shared basis within your designated family group.</p>
+<p>
+<strong>1.2 Updates</strong>
+</p>
+<p>You understand that the Services are evolving.
+As a result, Flower Ave may require you to accept updates to the Services that you have installed on your mobile device.
+You acknowledge and agree that Flower Ave may update the Services with or without notifying you.
+You may need to update third-party software from time to time in order to use the Services.</p>
+<p>
+<strong>1.3 Certain Restrictions</strong>
+</p>
+<p>The rights granted to you in the Agreement are subject to the following restrictions: (a) you shall not license, sell, rent, lease, transfer, assign, reproduce, distribute, host or otherwise commercially exploit any of the Services.
+(b) you shall not frame or utilize framing techniques to enclose any trademark, logo, or other parts of the Services (including images, text, page layout or form).
+(c) you shall not use any metatags or other âhidden textâ using Flower Aveâs name or trademarks.
+(d) you shall not modify, translate, adapt, merge, make derivative works of, disassemble, decompile, reverse compile or reverse engineer any part of the Services except to the extent the foregoing restrictions are expressly prohibited by applicable law.
+(e) you shall not use any manual or automated software, devices or other processes (including but not limited to spiders, robots, scrapers, crawlers, avatars, data mining tools or the like) to âscrapeâ or download data from any web pages contained in the Services (except that we grant the operators of public search engines revocable permission to use spiders to copy materials from the Services for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of the materials, but not caches or archives of such materials).
+(f) except as expressly stated herein, no part of the Services may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means.
+and (g) you shall not remove or destroy any copyright notices or other proprietary markings contained on or in the Services.
+Any future release, update or other addition to the Services shall be subject to the Agreement.
+Flower Ave, its suppliers and service providers reserve all rights not granted in the Agreement.</p>
+<p>
+<strong>1.4 Flower Ave Communications</strong>
+</p>
+<p>If you provide us with your mobile telephone number, we may use your phone number to send you text messages (âSMS Messagesâ) for authentication and other operational communications concerning your Account or your use of the Services.
+You represent that you are the subscriber of the mobile service at any mobile telephone number you provide to us, or that you are otherwise authorized by the subscriber to receive SMS Messages from us at such mobile number in accordance with these Terms of Use.
+Message and data rates charged by your wireless carrier may apply.</p>
+<p>
+<strong>1.5 Privacy</strong>
+</p>
+<p>Flower Ave will collect and use your personal information in accordance with the terms of its Privacy Policy.</p>
+2.
+Registration
+<p>
+<strong>2.1 Registering Your Account</strong>
+</p>  

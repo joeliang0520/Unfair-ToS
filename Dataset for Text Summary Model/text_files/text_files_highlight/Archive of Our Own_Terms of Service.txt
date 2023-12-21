@@ -1,0 +1,41 @@
+
+ Our software is open-source
+ You and the <abbr>OTW</abbr> agree to submit to the personal and exclusive jurisdiction of the courts located within New York County (Manhattan), New York
+ The <abbr>OTW</abbr>'s failure to enforce any part of the <abbr>ToS</abbr> will not waive the <abbr>OTW</abbr>'s ability to enforce it
+ <p>If any provision of the <abbr>ToS</abbr> is found by a court of competent jurisdiction to be invalid, you agree that the court should give effect to the party's intentions as reflected in the provision, and that the other provisions of the <abbr>ToS</abbr> remain in full force and effect.</p>
+ <p>You agree that, regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Archive or the <abbr>ToS</abbr> must be filed within one (1) year after such claim or cause of action arose or be forever barred.
+ Changes in the <abbr>ToS</abbr> may be proposed at any time by or to the <abbr>OTW</abbr> Board.
+Proposed changes will be prominently disclosed on the Service, and we will offer at least a two-week comment period for proposed changes.
+ <p>The <abbr>OTW</abbr> provides services, including the Archive of Our Own, on an "as is" and "as available" basis.
+ The <abbr>OTW</abbr> does not warrant (that is, does not make a legally binding promise) that our services will meet your requirements.
+that our services will be uninterrupted, timely, secure, or error-free.
+ or that the results you get from using the services will be accurate, reliable, or satisfactory to you.
+ In the event we learn of a breach of personally identifying information that users have submitted to the Service, we will notify affected users as soon as practicable.
+ You will be solely responsible for any damage or loss of data that results from the download of any such material.
+
+<p>to make available any unsolicited or unauthorized advertising (defined as solicitations for direct or indirect commercial advantage), junk mail, spam, chain letters, pyramid schemes, or any other form of solicitation;</p>
+
+<p>to make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer or hardware or telecommunications equipment;</p>
+</li>
+<li>
+<p>to interfere with or disrupt the Service, any <abbr>OTW</abbr>-hosted Content or sites, servers, Services or networks connected to <abbr>OTW</abbr> sites;</p>
+ <p>to create an account if you are a resident or national of any country to which the U.S.
+has prohibited transactions by mandating a trade embargo, as detailed further by the State Department;</p>
+</li>
+<li>
+<p>
+
+<p>to use <abbr>OTW</abbr> services to break any law that applies to you, including any rules or regulations having the force of law.
+ The <abbr>OTW</abbr> has no control over such sites or their terms of use or privacy policies, and you agree that the <abbr>OTW</abbr> is not responsible for and does not endorse their content, terms or availability.</p>
+ Although all visible Content, including embedded images or other works, must comply with our Content Policy, User-Embedded Content is not otherwise governed by these Terms of Use or the Archive Privacy Policy, and instead is covered by the Terms of Use and/or Privacy Policy of the service that hosts the User-Embedded Content.
+ You recognize that the <abbr>OTW</abbr> does not endorse Content on the Archive in any way, except when material appears as an official statement of the <abbr>OTW</abbr>.
+ The <abbr>OTW</abbr> does not claim any ownership or copyright in your Content.
+ Personal Data includes your username, your email address, your IP information and any personally identifying information you enter on the Archive, including information that you put into your profile, a work's notes or tags, into the body of a work or other Content itself.
+ We may use third-party services to store, process, or transmit data, or perform other technical functions related to operating the Service.
+ Cookies must be enabled for the Archive to function properly with your computer.
+If for any reason you terminate your user account with us, we will destroy active records containing your Personal Data as soon as reasonably possible.
+"Reasonably" here means no more than thirty business days from the termination of the account.
+however, we may have to retain some information for a longer period as legal records or for auditing purposes.
+We will not sell, trade, or rent your personally identifying information.
+ <p>A user whose account has been permanently suspended for reasons other than age may not rejoin under another identity.</p>
+ Approved: 23 May 2018

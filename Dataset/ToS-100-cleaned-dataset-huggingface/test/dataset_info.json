@@ -1,0 +1,22 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "label": {
+      "names": [
+        "FAIR",
+        "REMOVE_CONTENT",
+        "UNBALANCED_DELECRATION",
+        "TERMINATE_CONTRACT",
+        "OTHER"
+      ],
+      "_type": "ClassLabel"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}

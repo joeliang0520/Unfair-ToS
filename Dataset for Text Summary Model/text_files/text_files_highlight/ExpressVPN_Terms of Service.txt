@@ -1,0 +1,132 @@
+
+ <p>By creating an account for using our Services, you represent that you are at least eighteen (18) years of age or that you are a valid legal entity, and that the registration information you have provided is accurate and complete.
+<p>
+By creating an account for using our Services, you represent that you are at least eighteen (18) years of age or that you are a valid legal entity, and that the registration information you have provided is accurate and complete.
+ 
+Your use of the Content or Services following the changes to these Terms constitutes your acceptance of the changed Terms.
+
+Your use of the Content or Services following the changes to these Terms constitutes your acceptance of the changed Terms.
+ The subscription fee will be charged automatically to the payment method you last selected.
+
+The subscription fee will be charged automatically to the payment method you last selected.
+
+ By default, auto-renewal is turned on when you use a payment method that supports auto-renewal (such as a credit card or Paypal)
+By default, auto-renewal is turned on when you use a payment method that supports auto-renewal (such as a credit card or Paypal)
+ You may cancel your account with a full refund within 30 days of your initial purchase (â<strong>Money Back Guarantee</strong>â).</p>
+<p>Refunds beyond the 30-day purchase window will be considered, at the sole discretion of ExpressVPN, if a Subscriber can demonstrate that the Service was not available or usable during the subscription period and that reasonable attempts were made to contact ExpressVPN to resolve the issue.
+
+You may cancel your account with a full refund within 30 days of your initial purchase (â
+<strong>
+Money Back Guarantee
+</strong>
+â).
+</p>
+<p>
+Refunds beyond the 30-day purchase window will be considered, at the sole discretion of ExpressVPN, if a Subscriber can demonstrate that the Service was not available or usable during the subscription period and that reasonable attempts were made to contact ExpressVPN to resolve the issue.
+
+ <p>You understand that it is your responsibility to keep your ExpressVPN account information confidential.
+You are responsible for all activity under your account.
+
+<p>
+You understand that it is your responsibility to keep your ExpressVPN account information confidential.
+You are responsible for all activity under your account.
+
+ We will strive to prevent interruptions to the Site and Services.
+However, these are provided on an âas-isâ and âas-availableâ basis,
+We will strive to prevent interruptions to the Site and Services.
+However, these are provided on an âas-isâ and âas-availableâ basis,
+ we do not warrant, either expressly or by implication, the accuracy of any materials or information provided through the Site or Service, or their suitability for any particular purpose.
+we do not warrant, either expressly or by implication, the accuracy of any materials or information provided through the Site or Service, or their suitability for any particular purpose.
+ We expressly disclaim all warranties of any kind, whether express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose, or non-infringement.
+We expressly disclaim all warranties of any kind, whether express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose, or non-infringement.
+ We do not make any warranty that the Services will meet your requirements, or that it will be uninterrupted, timely, secure, or error-free
+We do not make any warranty that the Services will meet your requirements, or that it will be uninterrupted, timely, secure, or error-free
+, or that defects, if any, will be corrected.
+
+ We may impose usage or Service limits, suspend Service, terminate VPN accounts, or block certain kinds of usage in our sole discretion to protect Subscribers or the Service.
+We may impose usage or Service limits, suspend Service, terminate VPN accounts, or block certain kinds of usage in our sole discretion to protect Subscribers or the Service.
+ We may, but are not obligated to, in our sole discretion and without notice, remove, block, filter, or restrict by any means any materials or information that we consider to be actual or potential violations of the restrictions set forth in these Terms, and any other activities that may subject ExpressVPN or our customers to liability.
+We may, but are not obligated to, in our sole discretion and without notice, remove, block, filter, or restrict by any means any materials or information that we consider to be actual or potential violations of the restrictions set forth in these Terms, and any other activities that may subject ExpressVPN or our customers to liability.
+ ExpressVPN shall not be liable and shall not have responsibility of any kind to any Subscriber or other individual for any loss or damage that you incur in the event of:</p>
+<ol>
+<li>
+<p>any failure or interruption of the Site or Service;</p>
+</li>
+<li>
+<p>any act or omission of any Third Party involved in making the Site or Service or the data contained therein available to you;</p>
+</li>
+<li>
+<p>any other cause relating to your access or use, or inability to access or use, any portion of the Site or its Content;</p>
+</li>
+<li>
+<p>your interactions on the Site or Service;</p>
+</li>
+<li>
+<p>your failure to comply with this Agreement;</p>
+</li>
+<li>
+<p>the cost of procurement of substitute goods or services.
+or</p>
+</li>
+<li>
+<p>unauthorized access to or alteration of your transmissions or data, whether or not the circumstances giving rise to such cause may have been within the control of ExpressVPN or of any vendor providing software, services, or support for the Site or Service.</p>
+</li>
+ExpressVPN shall not be liable and shall not have responsibility of any kind to any Subscriber or other individual for any loss or damage that you incur in the event of:
+</p>
+<ol>
+<li>
+<p>
+any failure or interruption of the Site or Service;
+</p>
+</li>
+<li>
+<p>
+any act or omission of any Third Party involved in making the Site or Service or the data contained therein available to you;
+</p>
+</li>
+<li>
+<p>
+any other cause relating to your access or use, or inability to access or use, any portion of the Site or its Content;
+</p>
+</li>
+<li>
+<p>
+your interactions on the Site or Service;
+</p>
+</li>
+<li>
+<p>
+your failure to comply with this Agreement;
+</p>
+</li>
+<li>
+<p>
+the cost of procurement of substitute goods or services.
+or
+</p>
+</li>
+<li>
+<p>
+unauthorized access to or alteration of your transmissions or data, whether or not the circumstances giving rise to such cause may have been within the control of ExpressVPN or of any vendor providing software, services, or support for the Site or Service.
+</p>
+</li>
+ You agree to indemnify, defend, and hold harmless ExpressVPN, its officers, directors, employees, members, partners, agents, and suppliers, and their respective affiliates, officers, directors, employees, members, shareholders, partners, and agents, from any and all claims and expenses, including attorneysâ fees, arising out of your use of the Content and Service, including but not limited to your violation of this Agreement.
+You agree to indemnify, defend, and hold harmless ExpressVPN, its officers, directors, employees, members, partners, agents, and suppliers, and their respective affiliates, officers, directors, employees, members, shareholders, partners, and agents, from any and all claims and expenses, including attorneysâ fees, arising out of your use of the Content and Service, including but not limited to your violation of this Agreement.
+ This Agreement shall be governed by and construed in accordance with the laws of the British Virgin Islands, excluding its rules governing conflicts of law.</p>
+This Agreement shall be governed by and construed in accordance with the laws of the British Virgin Islands, excluding its rules governing conflicts of law.
+</p>
+ All disputes arising out of or relating to this Agreement or the use of the Site or Services shall be finally settled under the Rules of Arbitration (â<strong>Rules</strong>â) of the International Centre for Dispute Resolution (ICDR) by one arbitrator (â<strong>Arbitrator</strong>â) appointed in accordance with said Rules.
+All disputes arising out of or relating to this Agreement or the use of the Site or Services shall be finally settled under the Rules of Arbitration (â
+<strong>
+Rules
+</strong>
+â) of the International Centre for Dispute Resolution (ICDR) by one arbitrator (â
+<strong>
+Arbitrator
+</strong>
+â) appointed in accordance with said Rules.
+
+<p>Subject to any applicable law to the contrary, you agree that any cause of action arising out of or related to the use of our Site or Services must be commenced within one (1) year after the cause of action accrues, or such action will be permanently barred.</p>
+<p>
+Subject to any applicable law to the contrary, you agree that any cause of action arising out of or related to the use of our Site or Services must be commenced within one (1) year after the cause of action accrues, or such action will be permanently barred.
+</p>

@@ -1,0 +1,9 @@
+
+ When we refer to the <em>âServicesâ</em> in these Terms, we mean to include all products and services that Twilio offers, and that you order under an Order Form or by using the Twilio or SendGrid customer account.
+
+When we refer to the 
+<em>
+âServicesâ
+</em>
+ in these Terms, we mean to include all products and services that Twilio offers, and that you order under an Order Form or by using the Twilio or SendGrid customer account.
+

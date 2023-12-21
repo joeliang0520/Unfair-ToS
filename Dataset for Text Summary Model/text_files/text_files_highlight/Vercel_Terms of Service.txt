@@ -1,0 +1,36 @@
+
+ You certify that you are a person at least 16 years of age.
+You certify that you are a person at least 16 years of age.
+ You shall be responsible for maintaining the confidentiality of login information associated with your account.
+You shall be responsible for maintaining the confidentiality of login information associated with your account.
+ You further agree that Vercel may remove or disable any of Your Content at any time for any reason (including, but not limited to, upon receipt of claims or allegations from third-parties or authorities relating to Your Content), or for no reason at all.</small>
+You further agree that Vercel may remove or disable any of Your Content at any time for any reason (including, but not limited to, upon receipt of claims or allegations from third-parties or authorities relating to Your Content), or for no reason at all.
+</small>
+ You must not access the Vercel's website through automated methods, including any use of robots or other computer code which calls Vercel's website.</small>
+
+You must not access the Vercel's website through automated methods, including any use of robots or other computer code which calls Vercel's website.
+</small>
+ You shall not send unsolicited messages or use the Services to send unsolicited messages (also known as junk mail or SPAM).
+You shall not send unsolicited messages or use the Services to send unsolicited messages (also known as junk mail or SPAM).
+ You hereby agree to indemnify and hold Vercel harmless against any damages, losses, liabilities, settlements and expenses (including without limitation costs and attorneys' fees) in connection with any third party claim or action that arises from an alleged violation of the foregoing or otherwise from your use of Services in a manner not authorized by this Agreement.
+You hereby agree to indemnify and hold Vercel harmless against any damages, losses, liabilities, settlements and expenses (including without limitation costs and attorneys' fees) in connection with any third party claim or action that arises from an alleged violation of the foregoing or otherwise from your use of Services in a manner not authorized by this Agreement.
+ The self-service subscription and any additional Services added to your self-service subscription will automatically-renew for the same term as the initial term, and any domain registrations will renew on an annual basis as set forth in Section 16.1 below.
+The self-service subscription and any additional Services added to your self-service subscription will automatically-renew for the same term as the initial term, and any domain registrations will renew on an annual basis as set forth in Section 16.1 below.
+ All fees are non-refundable, except as expressly stated otherwise in this Agreement.</small>
+All fees are non-refundable, except as expressly stated otherwise in this Agreement.
+</small>
+ Your continued use of the Services after the price change becomes effective constitutes your agreement to pay the changed amount.</small>
+Your continued use of the Services after the price change becomes effective constitutes your agreement to pay the changed amount.
+</small>
+ You have the right to terminate your account at any time by sending a cancellation request to Vercel Support via theSupport Center.
+
+You have the right to terminate your account at any time by sending a cancellation request to Vercel Support via theSupport Center.
+
+ VERCEL DOES NOT WARRANT THAT THE SERVICES OR DELIVERABLES WILL BE UNINTERRUPTED OR ERROR FREE.
+VERCEL DOES NOT WARRANT THAT THE SERVICES OR DELIVERABLES WILL BE UNINTERRUPTED OR ERROR FREE.
+ If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
+If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that this Agreement will otherwise remain in full force and effect and enforceable.
+ TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF YOU OR VERCEL WANT TO ASSERT A DISPUTE AGAINST THE OTHER, THEN YOU OR VERCEL MUST COMMENCE IT (BY DELIVERY OF WRITTEN NOTICE AS SET FORTH HEREIN) WITHIN ONE (1) YEAR AFTER THE DISPUTE ARISES OR IT WILL BE FOREVER BARRED.
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF YOU OR VERCEL WANT TO ASSERT A DISPUTE AGAINST THE OTHER, THEN YOU OR VERCEL MUST COMMENCE IT (BY DELIVERY OF WRITTEN NOTICE AS SET FORTH HEREIN) WITHIN ONE (1) YEAR AFTER THE DISPUTE ARISES OR IT WILL BE FOREVER BARRED.
+ Last update: May 6th, 2022
+Last update: May 6th, 2022

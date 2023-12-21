@@ -1,0 +1,33 @@
+
+ Last Modified: Thursday 10th March 2022.</p> 
+Last Modified: Thursday 10th March 2022.
+</p>
+<br>
+Lichess is free/libre open source software, with the express charitable purpose of promoting and encouraging the play and study of chess.
+This means that in addition to using our website and its features, technologies or software for free (collectively, the âservicesâ), you can also inspect, copy, and (within certain licensing requirements) use our source code
+ >You must not attempt to gain unlawful access to the website, any server connected to our website, any database or computer connected to our website;</li>
+<li>You must not attack our website via any kind of volumetric attack, or attempt to exploit any bugs, weaknesses and vulnerabilities present in our website.
+>You must not attempt to gain unlawful access to the website, any server connected to our website, any database or computer connected to our website;
+</li>
+<li>
+You must not attack our website via any kind of volumetric attack, or attempt to exploit any bugs, weaknesses and vulnerabilities present in our website.
+ All use of our services are subject to reasonable caps, limits, restrictions, or other bottle-necking which are purely determined at Lichessâ discretion.
+All use of our services are subject to reasonable caps, limits, restrictions, or other bottle-necking which are purely determined at Lichessâ discretion.
+ Our services are provided âas isâ and may require your own efforts, modification, and resources to ensure they work satisfactorily.
+Our services are provided âas isâ and may require your own efforts, modification, and resources to ensure they work satisfactorily.
+ We cannot guarantee the full or partial function or full or partial accuracy of any of our services.
+Consequently, we cannot be held liable for any of your damage or losses sustained, of any type
+We cannot guarantee the full or partial function or full or partial accuracy of any of our services.
+Consequently, we cannot be held liable for any of your damage or losses sustained, of any type
+ In addition to the Fair Play and Community Guidelines, we reserve the right to exclude people from using our services at our sole discretion, and to determine what constitutes abuse of our services, insofar as the relevant licenses and statute allow for.
+In addition to the Fair Play and Community Guidelines, we reserve the right to exclude people from using our services at our sole discretion, and to determine what constitutes abuse of our services, insofar as the relevant licenses and statute allow for.
+ We reserve the right and sole discretion to determine if a username is inappropriate or if impersonation has occurred - either directly in the account name, or from other profile data
+We reserve the right and sole discretion to determine if a username is inappropriate or if impersonation has occurred - either directly in the account name, or from other profile data
+ This also includes content which may constitute copyright infringement, trademark violations or other intellectual property misappropriation, or other unlawful conduct.
+This also includes content which may constitute copyright infringement, trademark violations or other intellectual property misappropriation, or other unlawful conduct.
+ You further agree that if, at our sole discretion, we determine your content to have breached these Terms you may have your content partially or fully removed, hidden, deleted or otherwise made inaccessible, either to yourself and/or others.
+You further agree that if, at our sole discretion, we determine your content to have breached these Terms you may have your content partially or fully removed, hidden, deleted or otherwise made inaccessible, either to yourself and/or others.
+ 
+Your continued use of our website or services after the effective date of any such changes constitutes your acceptance of the changes.
+
+Your continued use of our website or services after the effective date of any such changes constitutes your acceptance of the changes.

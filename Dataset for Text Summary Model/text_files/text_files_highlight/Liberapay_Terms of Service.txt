@@ -1,0 +1,76 @@
+
+ The service normally allows the user to increase the visibility of its profile
+in various way, but the organization reserves the right to disable the user's
+access to those features.</p>
+<p>
+The service normally allows the user to increase the visibility of its profile
+in various way, but the organization reserves the right to disable the user's
+access to those features.
+</p>
+<p>
+ The organization guarantees that the funds the user has put in its custody will
+not be lost in case of bankruptcy of itself or of a third party to whom it has
+delegated the custody of the funds.</p>
+The organization guarantees that the funds the user has put in its custody will
+not be lost in case of bankruptcy of itself or of a third party to whom it has
+delegated the custody of the funds.
+</p>
+ The organization does not guarantee that the user will be able to withdraw the
+money in its account without delay.
+
+The organization does not guarantee that the user will be able to withdraw the
+money in its account without delay.
+
+In particular, the organization may impose a
+delay to deter and protect itself from fraud.
+</p>
+ The user commits to use the service in good faith, in particular the user
+commits not to lie about their identity and not to fill their profile in a
+deceptive way for the purpose of attracting more donations.</p>
+The user commits to use the service in good faith, in particular the user
+commits not to lie about their identity and not to fill their profile in a
+deceptive way for the purpose of attracting more donations.
+</p>
+ The user can quit the service by closing their account.
+
+The user can quit the service by closing their account.
+
+ The organization may close the user's account if it considers that they have
+violated this contract, or a contract with a partner of the organization, or any
+applicable law.
+The organization may close the user's account if it considers that they have
+violated this contract, or a contract with a partner of the organization, or any
+applicable law.
+ The organization does not implicitly commit to
+anything, in particular it does not guarantee that the service will be
+operational at all times without interruptions
+The organization does not implicitly commit to
+anything, in particular it does not guarantee that the service will be
+operational at all times without interruptions
+ The organization cannot be held responsible for the consequences of negligence
+by the user, notably of failure by the user to secure their password.
+The organization cannot be held responsible for the consequences of negligence
+by the user, notably of failure by the user to secure their password.
+ The organization may modify this contract at any time.
+It undertakes to inform
+the user of any changes.
+The organization may modify this contract at any time.
+It undertakes to inform
+the user of any changes.
+ This contract is subject to French law.
+Any dispute shall be submitted to the
+competent French jurisdiction.</p>
+This contract is subject to French law.
+Any dispute shall be submitted to the
+competent French jurisdiction.
+</p>
+ <p>If a part of this contract is nullified, that judgment does not nullify the rest
+of the agreement.</p> 
+<p>
+If a part of this contract is nullified, that judgment does not nullify the rest
+of the agreement.
+</p>
+ The user acknowledges that cookies are necessary for the service to function and
+agrees to their use.
+The user acknowledges that cookies are necessary for the service to function and
+agrees to their use.
