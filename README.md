@@ -1,4 +1,7 @@
 # Unfair-ToS
+
+![unfair-tos](https://github.com/joeliang0520/Unfair-ToS/assets/50597009/123bed0d-d5c9-4362-923f-de1e53b22987)
+
 Terms of service (ToS) are agreements between service providers and their users. These ToS documents often contain complex legal language that users struggle to understand. Such clauses may violate consumer laws, compromise users' rights, and raise privacy concerns.
 
 The Large Language Model's (LLM) proven ability to efficiently extract summaries from complex texts makes it ideal for addressing ToS complexities. The Unfair-ToS employs a GPT-based framework to highlight crucial ToS sentences, offer simplified explanations, and evaluate their fairness, also providing reasons for any unfair terms.
