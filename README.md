@@ -5,9 +5,9 @@ This is the source code for the Unfair ToS project by Jianing Zhang and Jiazhou 
 ## Dataset Description
 
 - The folder **Dataset** contains the 100 ToS dataset from the paper 'Detecting and explaining unfairness in consumer contracts through memory networks' used for text classification model.
-    - **ToS-100.csv**: the original dataset from the paper, more details can be found at [Memnet_ToS GitHub](https://github.com/federicoruggeri/Memnet_ToS).
-    - **ToS-100-cleaned.csv**: the cleaned dataset for this project, including the original sentences, binary variables for each of the five classes, and a combined variable 'label' for all classes.
-    - ToS-100-cleaned-dataset-huggingface: Hugging Face dataset after oversampling, used for fine-tuning the pretrained GPT-2 model. It is split into 80% training and 20% testing. More information on how to load the dataset into the Hugging Face library can be found [here](https://huggingface.co/docs/datasets/loading).
+  - **ToS-100.csv**: the original dataset from the paper, more details can be found at [Memnet_ToS GitHub](https://github.com/federicoruggeri/Memnet_ToS).
+  - **ToS-100-cleaned.csv**: the cleaned dataset for this project, including the original sentences, binary variables for each of the five classes, and a combined variable 'label' for all classes.
+  - ToS-100-cleaned-dataset-huggingface: Hugging Face dataset after oversampling, used for fine-tuning the pretrained GPT-2 model. It is split into 80% training and 20% testing. More information on how to load the dataset into the Hugging Face library can be found [here](https://huggingface.co/docs/datasets/loading).
 
 - The folder **Dataset for Text Summary Model** contains the ToS documents crawled from the ToS;DR website with highlighted sentences by human contributors for text highlighting model. More information about ToS;DR can be found [here](https://tosdr.org/).
     - **html_files** folder contains the raw crawled ToS in HTML format.
