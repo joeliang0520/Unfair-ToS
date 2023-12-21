@@ -1,7 +1,0 @@
-
-Waterfox is free and open source software
-You are also welcome to modify the source code of Waterfox as you want to meet your needs.
-The Services are provided "as-is."
-Waterfox, its contributors, licensors, and distributors, disclaim all warranties, whether express or implied, including without limitation, warranties that the Services are merchantable and fit for your particular purposes.
- Waterfox is a subsidiary of System1
-Waterfox is a subsidiary of System1
