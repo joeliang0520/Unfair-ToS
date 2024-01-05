@@ -1,0 +1,86 @@
+
+### Detail Instruction: ###
+Using the content in the 'term of service document' given below, accomplish the following two tasks:
+**Hightlight:** Hightlight max 50 indexes that are most important for users to carefully read before accepting the term, using the 'definition of important' given below. you can also use your own knowledge to identify 'important' within the Terms of Service documents. Keep a good balance between precision and recall.
+Please provide the output in a text file format with 'Highlight' and 'Simplification' as header (first line). Each line contains the "original sentences" and its corresponding "Simplification" enclosed in quotation marks and separated by a comma.
+---
+### Steps ###
+think step by step,
+1. who is the service provider? who is its user population?
+2. what should be considered as important sentence for users to read? using the definition given below
+3. How can you quantify the importance of a sentence using this definition?
+4. What are the 50 most important sentences?
+---
+### Definition of Important###
+A sentence is important if it relates to one or more of the following 57 practices:
+1. **Retention of User-Generated Content**: Keeping user content even after the user closes their account.
+2. **User Tracking**: Monitoring users on other websites.
+3. **Broad Rights Retention**: Retaining rights to user content even after they stop using their account.
+4. **Excessive Copyright Claims**: Maintaining copyright over user data/content beyond necessary limits.
+5. **Unauthorized Credit Taking**: Taking credit for user-generated content.
+6. **Limited Liability**: Restricting liability to fees paid by the user.
+7. **Content Licensing to Third Parties**: Licensing user content to external entities.
+8. **Third-Party Advertising**: Using user data for targeted third-party advertising.
+9. **Cookie Usage**: Implementing third-party cookies despite opt-out instructions.
+10. **Account Deletion Without Notice**: Deleting user accounts without notice or explanation.
+11. **Username Rejection/Change**: Rejecting or changing usernames arbitrarily.
+12. **Involvement of Third Parties**: Engaging third parties in service operations.
+13. **Ownership of User Ideas**: Claiming ownership of ideas suggested by users.
+14. **No Liability for Unauthorized Access**: Assuming no liability for unauthorized access to user information.
+15. **Software Error Negligence**: Not correcting software errors.
+16. **Tracking Pixels in Communication**: Using tracking pixels in service-to-user communication.
+17. **Extended Data Retention for Analytics**: Keeping anonymized user data beyond retention periods for analytical purposes.
+18. **Cross-Product Profile Combination**: Combining user profiles across different products.
+19. **Marketing Use of Personal Data**: Using personal data for marketing purposes.
+20. **Unlicensed Software Disabling**: Disabling unlicensed software.
+21. **Fines for TOS Violations**: Imposing fines for Terms of Service violations.
+22. **Referring Web Page Tracking**: Tracking users based on referring web pages.
+23. **Binding Arbitration Requirement**: Forcing users into binding arbitration for dispute resolution.
+24. **Diverse Personal Data Collection**: Collecting various types of personal data.
+25. **Social Media Tracking**: Tracking users via social media cookies/pixels.
+26. **Third-Party Information Gathering**: Gathering user information through third parties.
+27. **Passive Data Storage**: Storing data on users without their interaction.
+28. **Precise Location Collection**: Receiving precise location data through GPS.
+29. **Biometric Data Collection**: Collecting biometric data.
+30. **Personal Data Selling/Usage**: Selling or using personal data for various purposes.
+31. **Terms Change Without Notice**: Changing terms at discretion without notifying users.
+32. **Global Data Processing/Storage**: Processing and storing data globally.
+33. **Reduced Legal Action Window**: Imposing a shortened time period for legal action.
+34. **Opt-Out Ineffectiveness**: Tracking users despite their opting out.
+35. **Deleted Content Retention**: Retaining deleted content.
+36. **Unexplained Content Deletion**: Deleting specific content without providing reasons.
+37. **Sensitive Data for Advertising**: Collecting sensitive data for targeted advertising.
+38. **Browsing History Access**: Viewing user browsing history.
+39. **Content Blocking/Censorship**: Blocking or censoring user-generated content for any reason.
+40. **Limited Operating Jurisdiction**: Operating only in government-approved countries.
+41. **Unencrypted Traffic**: Having unencrypted communication.
+42. **Government Request Compliance**: Disclosing personal data to comply with government requests without notice.
+43. **Identifiable Information Checks**: Verifying provided identifiable information.
+44. **Private Message Reading**: Reading private user messages.
+45. **Price/Fee Changes Without Notice**: Changing prices and fees without notifying users.
+46. **Indefinite Log Keeping**: Keeping logs for an undefined period.
+47. **Retroactive Policy Changes**: Applying policy changes retroactively.
+48. **AI Training/Decision-Making with Personal Data**: Using personal data for decision-making, profiling, or AI training.
+49. **Assumed Consent from Usage**: Assuming user consent to term changes through usage.
+50. **Promotional Communication Difficulty**: Making it hard for users to opt out of promotional communications.
+51. **Name Requirement Enforcement**: Refusing pseudonyms and insisting on legal names.
+52. **Personal Data Accessibility Challenges**: Making it inconvenient for users to obtain their personal data.
+53. **Interference Prevention**: Preventing interference with others' enjoyment of the service.
+54. **Negative Opinion Disallowance**: Disallowing negative opinions about the service.
+55. **Value-Advocacy Restrictions**: Prohibiting discussions against government-advocated values.
+56. **Content Removal/Editing Restrictions**: Restricting the removal or editing of user-generated content.
+57. **Implied Waivers of Rights**: Implying user waivers of moral rights and the right to a class action.
+---
+### Output Format ###
+Highlight,Summary
+"Sentence 1","Simplification 1"
+"Sentence 2","Simplification 2"
+...
+"Sentence 50","Simplification 50"
+---
+### Additional requirements ###
+1. The output should only contain the format listed above, turn off any warning or error message. 
+2. If the text is too long, please only the most important part of the text.
+3. Please use any tools or knowledge to help you complete the task.
+4. cleaned the 'simplification' to the required output format.
+---
