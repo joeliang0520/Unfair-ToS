@@ -10,8 +10,7 @@ The Large Language Model's (LLM) proven ability to efficiently extract summaries
 
 ![Add a little bit of body text (1) (1)](https://github.com/joeliang0520/Unfair-ToS/assets/50597009/9993fc4a-9042-4100-b9ed-93859384475d)
 
-## Model Result
-
+## Model Showcase
 Please read our [report](https://github.com/joeliang0520/Unfair-ToS/files/13934850/Unfair-ToS.Report.pdf) to learn more about our project motivation, background information, and model evaluation.
 
 ## Current Work
