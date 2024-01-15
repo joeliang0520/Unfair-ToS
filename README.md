@@ -15,11 +15,20 @@ This model using GPT-4 through prompts to highlight sentences and generate simpl
 ## Model Showcase
 Please read our [report](https://github.com/joeliang0520/Unfair-ToS/files/13934850/Unfair-ToS.Report.pdf) to learn more about our project motivation, background information, and model evaluation.
 
+### Some hightlight
+
+Inspired by Yoon Kim's paper, we constructed a baseline CNN classification model with k1 = 4 and k2 = 4 for fair/unfair classification. But its F1 score is only 0.193, indicating a tendency to classify samples into the class with the majority of samples, which is the 'fair' class. As a result, the baseline CNN struggles to properly identify 'unfair' sentences from the samples. 
+
+<img src="https://github.com/joeliang0520/Unfair-ToS/assets/50597009/dbff8063-99d6-4515-a139-88e42efc5f92" alt="drawing" width="900"/>
+
+In contrast, our fine-tuned GPT-2 model outperforms the baseline in both metrics. These results suggest that the GPT-2 model is more resistant to class imbalance, especially when fair sentences dominate the corpus, as is often the case.
+
+<img src="https://github.com/joeliang0520/Unfair-ToS/assets/50597009/9d9a30b3-f4fc-40f3-b49a-e25725edf6a0" alt="drawing" width="700"/>
+
 ## Current Work
 We are currently working on a Graphic User Interface to demonstrate the ability of our model. There is an early beta version available in the Application folder, that allows users to upload (txt/csv file) or copy and paste the ToS document, applying our LLM prompts with the different models using your own OPENAI API keys and getting the text highlighting result. The fair/unfair classification feature will be implemented into the GUI in the future release.
 
 ![Screenshot 2024-01-14 at 11 31 06 PM](https://github.com/joeliang0520/Unfair-ToS/assets/50597009/57137b42-7cf6-4219-bfbc-0f27a09a491b)
-
 
 To use this GUI, please clone this repo into your local machine, and install any missing packages. After all the preparation, please run the 'GUI.py' file to start the application.
 
