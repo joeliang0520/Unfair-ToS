@@ -12,12 +12,13 @@ The Large Language Model's (LLM) proven ability to efficiently extract summaries
 
 ## Model Result
 
-Please read our [report](https://github.com/joeliang0520/Unfair-ToS/files/13934453/ECE_1786_Final_Report.3.pdf) to learn more about our project motivation, background information, and model evaluation.
+Please read our [report](https://github.com/joeliang0520/Unfair-ToS/files/13934850/Unfair-ToS.Report.pdf) to learn more about our project motivation, background information, and model evaluation.
 
 ## Current Work
 We are currently working on a Graphic User Interface to demonstrate the ability of our model. There is an early beta version available in the Application folder, that allows users to upload (txt/csv file) or copy and paste the ToS document, applying our LLM prompts with the different models using your own OPENAI API keys and getting the text highlighting result. The fair/unfair classification feature will be implemented into the GUI in the future release.
 
-![Screenshot 2024-01-14 at 10 28 52 PM](https://github.com/joeliang0520/Unfair-ToS/assets/50597009/f7469e02-9a79-41dc-a82e-6dc0cbe39f5a)
+![Screenshot 2024-01-14 at 11 31 06 PM](https://github.com/joeliang0520/Unfair-ToS/assets/50597009/57137b42-7cf6-4219-bfbc-0f27a09a491b)
+
 
 To use this GUI, please clone this repo into your local machine, and install any missing packages. After all the preparation, please run the 'GUI.py' file to start the application.
 
