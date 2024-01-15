@@ -10,6 +10,8 @@ The Large Language Model's (LLM) proven ability to efficiently extract summaries
 
 ![Add a little bit of body text (1) (1)](https://github.com/joeliang0520/Unfair-ToS/assets/50597009/9993fc4a-9042-4100-b9ed-93859384475d)
 
+This model using GPT-4 through prompts to highlight sentences and generate simplifications for each highlighted sentence from the input, cleaned ToS. The prompt used in our model has been fine-tuned using 11 ToS documents, comprising approximately 1500 sentences, through prompt engineering. Important sentences identified by GPT-4 will serve as the input to the text classification model. Each sentence will be tokenized using HuggingFace's predefined 'GPT2' tokenizer. And feed them into the pre-trained 'gpt2' model, which is fine-tuned on the 100 ToS dataset with the same tokenizer and padded to the maximum length. The model's output will fall into one of the five classes. This model assigns a label to each highlighted sentence, aiding users in identifying the fairness of sentences.
+
 ## Model Showcase
 Please read our [report](https://github.com/joeliang0520/Unfair-ToS/files/13934850/Unfair-ToS.Report.pdf) to learn more about our project motivation, background information, and model evaluation.
 
