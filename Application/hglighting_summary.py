@@ -2,8 +2,8 @@ from document_preprocess import Tos
 import pandas as pd
 import requests
 import json
-import os
 import re
+from io import StringIO
 
 class Highlighter():
     def __init__(self, document:Tos, openai_key = None, model = 'gpt-4-1106-preview'):
@@ -72,11 +72,12 @@ class Highlighter():
                     self.system_prompt = file.read()
                     
             elif self.document.input_df.shape[1] == 2:
-                for index,text in zip(self.document.input_df['index'],self.document.input_df['content']):
+                for index,text in zip(self.document.input_df['input'],self.document.input_df['sentences']):
                     text_to_summarize +='index'+str(index) + ': ' + text + '\n'
                 with open('Final Prompt.txt', 'r') as file:
                     self.system_prompt = file.read()
             text_to_summarize += "--- END OF DOCUMENT ---"
+            
             print('Input conctraction completed, estimated input word token is {}. Highlighting sentences...'.format(len(text_to_summarize.split(' '))))
             # Headers for the POST request
             headers = {
@@ -107,22 +108,19 @@ class Highlighter():
             else:
                 raise Exception(f"Failed to get a response from the OpenAI API. Status code: {response.status_code}, Response: {response.text}")
             
-            output_csv_path = os.path.join('\cache', '\\'+self.document.name+'_gpt_output.csv')
+            csvStringIO = StringIO(generated_output)
+            result_df = pd.read_csv(csvStringIO, sep=",")
             
-            with open(output_csv_path, 'w', newline='', encoding='utf-8') as csv_file:
-                csv_file.write(generated_output)
-                print('Successfully highlighted and summarized sentences. Original Output is saved to {}.'.format(output_csv_path))
+            self.highlighted_text = result_df.iloc[:,0]
+            self.highlighted_summary = result_df.iloc[:,1].tolist()
             
-            result_df = pd.read_csv(output_csv_path)
-            self.highlighted_text = result_df['Highlight']
-            self.highlighted_summary = tem['Summary'].tolist()
             if index:
                 print('Converting index to sentence...')
-                self.highlighted_text = self.highlighted_text.apply(lambda x: int(x.replace('index ','')))
-                tem = []
-                self.index = [int(re.sub(r'[^\d]+', '', i)) for i in tem['Highlight'].tolist()]
-                for index in self.highlighted_text:
-                    tem.append(self.document.input_df['content'][index])
+                tem= []
+                self.index = [int(re.sub(r'[^\d]+', '', i)) for i in self.highlighted_text.tolist()]
+                print(self.index)
+                for index in self.index:
+                    tem.append(self.document.input_df['sentences'][index])
                 self.highlighted_text = tem
                 print('Successfully converted index to sentence')
             print('Successfully highlighted and summarized sentencs. Please use .highlighted_text and .highlighted_summary to access the results')

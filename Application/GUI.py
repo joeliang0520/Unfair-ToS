@@ -1,11 +1,13 @@
 from tkinter import *
+import customtkinter
 from document_preprocess import Tos
 from hglighting_summary import Highlighter
 from tkinter import filedialog
 import threading
 import pandas as pd
 import re
-
+from tkinter import ttk
+from PIL import ImageTk, Image
 def donothing():
    filewin = Toplevel(root)
    button = Button(filewin, text="Do nothing button")
@@ -13,35 +15,23 @@ def donothing():
    
 def setting_window(highlighter:Highlighter):
     def change_api_key(highlighter:Highlighter):
-        
-        def update(highlighter:Highlighter, api_key_entry:Entry):
-            highlighter.openai_key = api_key_entry.get()
-            if highlighter.openai_key == None or highlighter.openai_key == "":
-                #set to red color
-                current_key.config(text = 'No key is provided', fg = 'red')
-                api_warning.config(text ='No OpenAI Key is Provided. Pleas updated it in Setting before using the service', fg = 'red')
-            else:
-                api_warning.config(text ='Welcome to Unfair ToS. Current Model: ' + highlighter.model, fg = 'black')
-                current_key.config(text = highlighter.openai_key, fg = 'black')
-            openai_api_layer.destroy()
-            
-        openai_api_layer = Toplevel(setting)
-        openai_api_layer.title("Change API Key")
-        Label(openai_api_layer, text ="New API Key:").grid(row = 0, column = 0)
-        api_key_entry = Entry(openai_api_layer)
-        api_key_entry.grid(row = 0, column = 1)
-        Button(openai_api_layer, text = "Save", command = \
-               lambda: update(highlighter,api_key_entry)).grid(row = 1, column = 0)
-        Button(openai_api_layer, text = "Cancel", command = \
-               lambda: openai_api_layer.destroy()).grid(row = 1, column = 1)
+        dialog = customtkinter.CTkInputDialog(text="New API Key:", title="Change API Key")
+        highlighter.openai_key = dialog.get_input()
+        if highlighter.openai_key == None or highlighter.openai_key == "":
+            #set to red color
+            current_key.configure(text = 'No key is provided', fg = 'red')
+            api_warning.configure(text ='No OpenAI Key is Provided. Pleas updated it in Setting before using the service', text_color = 'red')
+        else:
+            api_warning.configure(text ='Welcome to Unfair ToS. Current Model: ' + highlighter.model, text_color = 'black')
+            current_key.configure(text = highlighter.openai_key[:3]+"****"+highlighter.openai_key[-3:], fg = 'black')
           
     def change_model(highlighter:Highlighter):
         def update(highlighter:Highlighter, new_model:StringVar):
             highlighter.model = new_model.get()
-            current_model.config(text = highlighter.model)
+            current_model.configure(text = highlighter.model)
             
             if highlighter.openai_key != None and highlighter.openai_key != "":
-                api_warning.config(text ='Welcome to Unfair ToS. Current Model: ' + highlighter.model, fg = 'black')
+                api_warning.configure(text ='Welcome to Unfair ToS. Current Model: ' + highlighter.model, text_color = 'black')
             model_layer.destroy()
         
         model_layer = Toplevel(setting)
@@ -75,8 +65,8 @@ def setting_window(highlighter:Highlighter):
         
         def clear():
             highlighter.openai_key = None
-            current_key.config(text = 'No key is provided', fg = 'red')
-            api_warning.config(text ='No OpenAI Key is Provided. Pleas updated it in Setting before using the service', fg = 'red')
+            current_key.configure(text = 'No key is provided', fg = 'red')
+            api_warning.configure(text ='No OpenAI Key is Provided. Pleas updated it in Setting before using the service', text_color = 'red')
             warning.destroy()
         
         Button(warning, text = "OK", command = clear).pack()
@@ -89,9 +79,9 @@ def setting_window(highlighter:Highlighter):
     current_key = Label(setting, text ="")
     if highlighter.openai_key == None or highlighter.openai_key == "":
         #set to red color
-        current_key.config(text = 'No key is provided', fg = 'red')
+        current_key.configure(text = 'No key is provided', fg = 'red')
     else:
-        current_key.config(text = highlighter.openai_key, fg = 'black')
+        current_key.configure(text = highlighter.openai_key[:3]+"***"+highlighter.openai_key[-3], fg = 'black')
         
     current_key.grid(row = 0, column = 1)
     Button(setting, text = "Change API Key", command = lambda: 
@@ -102,23 +92,25 @@ def setting_window(highlighter:Highlighter):
     current_model.grid(row = 1, column = 1)
     Button(setting, text = "Change Model", command = lambda:change_model(highlighter)).grid(row = 1, column = 3)
 
+def service_provder_name():
+    dialog = customtkinter.CTkInputDialog(text="Please enter the service provider name:", title="Service Provider Name")
+    highlighter.document.name = dialog.get_input()
+    summary.delete('1.0', END)
+    summary.insert('1.0',highlighter.document.name + '\'s ToS is succesfully imported. Please click Highlight to start')
+            
 def UploadAction():
     succesfull_upload = False
     try:
         filename = filedialog.askopenfilename()
         filetype = filename.split('.')[-1]
         if filetype == 'txt':
-            document.read_tos_as_txt(filename)
-            document.cleaning_text()
-            highlighter.update_document(document)
-            clean_or_original.grid(row=1, column=0, sticky="ew", padx=5)
+            highlighter.document.read_tos_as_txt(filename)
+            highlighter.document.cleaning_text()
             succesfull_upload = True
 
         elif filetype == 'csv':
-            document.read_tos_as_csv(filename)
-            document.cleaning_text()
-            highlighter.update_document(document)
-            clean_or_original.grid(row=1, column=0, sticky="ew", padx=5)
+            highlighter.document.read_tos_as_csv(filename)
+            highlighter.document.cleaning_text()
             succesfull_upload = True
             
         elif filename != '':
@@ -129,18 +121,20 @@ def UploadAction():
         
         #covert the document to string
         if succesfull_upload:
+            service_provder_name()
             if document.is_tokenized:
-                text = '\n'.join(list(document.raw_content))
+                text = '\n'.join(list(highlighter.document.raw_content))
             else:
-                text  = document.raw_content
+                text  = highlighter.document.raw_content
         
             content.delete('1.0', END)
             content.insert(INSERT,text)
-            summary.delete('1.0', END)
-            summary.insert('1.0','ToS Imported. Please click Highlight to start')
-            
-            if clean_or_original.config('relief')[-1] == 'sunken':
-                clean_or_original.config(text = "Show Cleaned",relief="raised")
+            global shown_cleaned
+            hightlight_bt.configure(state='normal')
+            clean_or_original.grid(row=2, column=0, sticky="ew", padx=5)
+            if shown_cleaned == 'Show Original':
+                shown_cleaned = "Show Cleaned"
+                
         else:
             warning = Toplevel(root)
             warning.geometry("500x100")
@@ -176,6 +170,7 @@ def clear_textbox():
             warning2.title("Message")
             Label(warning2, text ="All texts are successfully removed").pack()
             Button(warning2, text = "OK", command = lambda: warning2.destroy()).pack()
+            hightlight_bt.configure(state='disabled')
         
         Button(warning, text = "OK", command = cleaning).pack()
         Button(warning, text = "Cancel", command = lambda: warning.destroy()).pack()
@@ -188,15 +183,16 @@ def clear_textbox():
         Button(warning, text = "OK", command = lambda: warning.destroy()).pack()
 
 def toggle():
-    if clean_or_original.config('relief')[-1] == 'sunken':
+    global shown_cleaned
+    if shown_cleaned == 'Show Original':
         if highlighter.document.is_tokenized:
             text = '\n'.join(list(highlighter.document.raw_content))
         else:
             text  = highlighter.document.raw_content
-        clean_or_original.config(text = "Show Cleaned",relief="raised")
+        shown_cleaned = 'Show Cleaned'
     else:
         text = '\n'.join(list(highlighter.document.clean_text))
-        clean_or_original.config(text = "Show Original",relief="sunken")
+        shown_cleaned = 'Show Original'
         
     content.delete('1.0', END)
     content.insert('1.0',text)
@@ -214,11 +210,17 @@ def update_from_text_box():
         document.is_tokenized = False
         document.cleaning_text()
         highlighter.update_document(document)
+        service_provder_name()
         
-        content.delete('1.0', END)
+        content.delete('end', END)
         content.insert(INSERT,text)
-        summary.delete('1.0', END)
-        summary.insert('1.0','ToS Imported. Please click Highlight to start')
+        
+        hightlight_bt.configure(state='normal')
+        
+        clean_or_original.grid(row=2, column=0, sticky="ew", padx=5)
+        global shown_cleaned
+        if shown_cleaned == 'Show Original':
+            shown_cleaned = "Show Cleaned"
         
         warning.destroy()
         warning2 = Toplevel(root)
@@ -234,35 +236,33 @@ def changeOnHover(button, colorOnHover, colorOnLeave):
  
     # adjusting backgroung of the widget
     # background on entering widget
-    button.bind("<Enter>", func=lambda e: button.config(
+    button.bind("<Enter>", func=lambda e: button.configure(
         background=colorOnHover))
  
     # background color on leving widget
-    button.bind("<Leave>", func=lambda e: button.config(
+    button.bind("<Leave>", func=lambda e: button.configure(
         background=colorOnLeave))
 
-def hightlight():
+def hightlight(demo):
     try:
         window = Toplevel(root)
         window.title("Highlighting")
-        window.geometry("500x100")
-        Label(window, text ="Highlighting...").pack()
-        highlighter.hightlight_sentences()
-        # tem = pd.read_csv('/Users/joeliang/Desktop/SynologyDrive/UofT/ECE1786/project/Unfair-ToS/Dataset for Text Summary Model/cleaned/more_than_40_sentences/model_results/Crunchyroll_Terms of Service_summary.csv')
-        # clean = pd.read_csv('/Users/joeliang/Desktop/SynologyDrive/UofT/ECE1786/project/Unfair-ToS/Dataset for Text Summary Model/cleaned/more_than_40_sentences/original/Crunchyroll_Terms of Service.csv')
-        # highlighter.document.clean_text = clean.iloc[:,0].tolist()
-        # highlighter.index = [int(re.sub(r'[^\d]+', '', i)) for i in tem['Highlight'].tolist()]
-        print(highlighter.index)
-        highlighter.highlighted_summary = tem['Summary'].tolist()
-        window.destroy()
-        counter = 0
+        window.geometry("500x500")
+        Label(window, text ="Highlighting is in progress").pack()
+        progressbar = ttk.Progressbar(window,mode="indeterminate")
+        progressbar.start()
+        progressbar.pack()
+        hightlight_bt.configure(state='disabled')
+
+        if not demo:
+            highlighter.hightlight_sentences()
+            
         content.delete('1.0', END)
         summary.delete('1.0', END)
         
         for i in range(0,len(highlighter.document.clean_text)):
             text = highlighter.document.clean_text[i]
             if i in highlighter.index:
-                #find i+1 's index in highlighter.index
                 indexes = highlighter.index.index(i)
                 sum = highlighter.highlighted_summary[indexes]
                 difference = len(text) - len(sum)
@@ -270,7 +270,7 @@ def hightlight():
                 content.insert('end','\n')
                 summary.insert(INSERT,sum)
                 if difference > 0:
-                    summary.insert(INSERT,text[difference:]+'\n','hidden')
+                    summary.insert(INSERT,text[len(sum):]+'\n','hidden')
                 else:
                     summary.insert(INSERT,'\n','hidden')
                 summary.insert('end','\n')
@@ -280,24 +280,78 @@ def hightlight():
                 summary.insert(INSERT,text+'\n','hidden')
                 summary.insert('end','\n')
                 
+        window.destroy()    
                 
     except Exception as e:
+        window.destroy()
         warning = Toplevel(root)
         warning.title("Error")
         Label(warning, text='Error occurs when highlighting the document').pack()
+        hightlight_bt.configure(state='normal')
         Label(warning, text = e).pack()
         Button(warning, text = "OK", command = lambda: warning.destroy()).pack()
-
         
+def hightlight_button(demo):
+    window = Toplevel(root)
+    window.title("Warning")
+    window.geometry("500x400")
+    if demo:
+        print('You are using demo mode')
+        tem = pd.read_csv('/Users/joeliang/Desktop/SynologyDrive/UofT/ECE1786/project/Unfair-ToS/Dataset for Text Summary Model/cleaned/more_than_40_sentences/model_results/Crunchyroll_Terms of Service_summary.csv')
+        clean = pd.read_csv('/Users/joeliang/Desktop/SynologyDrive/UofT/ECE1786/project/Unfair-ToS/Dataset for Text Summary Model/cleaned/more_than_40_sentences/original/Crunchyroll_Terms of Service.csv')
+        highlighter.document.clean_text = clean.iloc[:,0].tolist()
+        highlighter.index = [int(re.sub(r'[^\d]+', '', i)) for i in tem['Highlight'].tolist()]
+        highlighter.highlighted_summary = tem['Summary'].tolist()
+    def cost_calculator():
+        text = ' '.join(list(highlighter.document.clean_text))
+        token = len(text.split(' '))
+        if highlighter.model == 'gpt-4':
+            cost = token /750 * 0.01
+        elif highlighter.model == 'gpt-3.5-turbo-1106':
+            cost = token /750 * 0.001
+        elif highlighter.model == 'gpt-3.5-turbo':
+            cost = token /750 * 0.001
+        elif highlighter.model == 'gpt-4-1106-preview':
+            cost = token /750 * 0.03
+        return str(cost)
+    
+    Label(window, text ="You are about to start the hightlighting process").pack()
+    Label(window, text ="This action is not recoverable and will directly bill to you OpenAI account").pack()
+    Label(window, text ="\n").pack()
+    Label(window, text ="Current Model: "+ highlighter.model).pack()
+    Label(window, text ='Estimated Input Cost based on selected model is ' + cost_calculator()).pack()
+    Label(window, text ="Please make sure you have enough OpenAI credit").pack()
+    Label(window, text ="\n").pack()
+    Label(window, text ="PLEASE PAY ATTENTION",fg='red').pack()
+    Label(window, text ="This is a beta version.",fg='red').pack() 
+    Label(window, text ="Unfair-ToS is not responsible for any cost ocurred when using this service.", fg ='red').pack()
+    Label(window, text ="\n").pack()
+    
+    def proess(demo):
+        window.destroy()
+        threading.Thread(target= lambda: hightlight(demo)).start()
+    
+    Button(window, text = "OK", command = lambda: proess(demo)).pack()
+    Button(window, text = "Cancel", command = lambda: window.destroy()).pack()
+    
+
+def show_demo():
+    global demo
+    demo = True
+    hightlight_button(demo)
+
+def multiple_yview(*args):
+    content.yview(*args)
+    summary.yview(*args)
+    
 #initialize the document and highlighter      
 document = Tos()
 highlighter = Highlighter(document)
-
-root = Tk()
+demo = False
+root = customtkinter.CTk()
 root.title('Unfair ToS')
-root.rowconfigure(0, minsize=500, weight=1)
-root.columnconfigure(1, minsize=1200, weight=1)
-
+root.geometry("1200x500")
+customtkinter.set_appearance_mode("light")
 menubar = Menu(root)
 
 filemenu = Menu(menubar, tearoff=0)
@@ -305,51 +359,77 @@ filemenu.add_command(label="Import From File", command=UploadAction)
 filemenu.add_command(label="Import From Textbox", command=update_from_text_box)
 filemenu.add_command(label="Show Cleaned/Original Text", command=toggle)
 filemenu.add_command(label="Remove All Text", command=clear_textbox)
-filemenu.add_command(label="Hightlight", command=hightlight)
+filemenu.add_separator()
+filemenu.add_command(label="Hightlight", command=hightlight_button)
 filemenu.add_separator()
 filemenu.add_command(label="Exit", command=root.quit)
 menubar.add_cascade(label="File", menu=filemenu)
 
 editmenu = Menu(menubar, tearoff=0)
-editmenu.add_command(label="General", command=lambda: setting_window(highlighter))
+editmenu.add_command(label="All Setting", command=lambda: setting_window(highlighter))
 menubar.add_cascade(label="Setting", menu=editmenu)
 
-helpmenu = Menu(menubar, tearoff=0)
-helpmenu.add_command(label="Help Index", command=donothing)
-helpmenu.add_command(label="About...", command=donothing)
-menubar.add_cascade(label="Help", menu=helpmenu)
+file_icon = customtkinter.CTkImage(Image.open('Application/data/file.png'))
+options = customtkinter.CTkFrame(root)
+customtkinter.CTkButton(options, text = "Import From File", image=file_icon, 
+                        command = lambda: threading.Thread(target=UploadAction).start()
+                        ).grid(row=0, column=0, padx=5, pady=5)
+customtkinter.CTkButton(options, text = "Setting", command = lambda: setting_window(highlighter)
+                        ).grid(row=1, column=0, padx=5)
+customtkinter.CTkButton(options, text = "Show Demo", command = show_demo
+                        ).grid(row=4, column=0, padx=5, pady=5)
+shown_cleaned = False
+clean_or_original = customtkinter.CTkSwitch(options,command = lambda: threading.Thread(target=toggle).start(),text='Show Cleaned')
+text_box = customtkinter.CTkFrame(root)
+text_box.rowconfigure(0, weight=0)
+text_box.rowconfigure(1, weight=10)
+text_box.rowconfigure(2, weight=0)
 
-options = Frame(root, relief=RAISED, bd=2)
-Button(options, text = "Import From File", command = UploadAction,height= 3, width=10).grid(row=0, column=0, sticky="ew", padx=5, pady=5)
-Button(options, text = "Setting", command = lambda: setting_window(highlighter),height= 3, width=10).grid(row=2, column=0, sticky="ew", padx=5)
-clean_or_original = Button(options, text = "Show Cleaned", command = toggle, relief="raised",height= 3, width=5)
+content_edit = customtkinter.CTkFrame(text_box)
 
-edit = Frame(root, relief=RAISED, bd=2)
-Button(edit, text = "Clear", command = clear_textbox,height= 2, width=5).grid(row=0, column=1, sticky="e", padx=15)
-Button(edit, text = "Update", command = update_from_text_box,height= 2, width=5).grid(row=0, column=2, sticky="e")
-hightlight_bt = Button(edit, text = "Highlight", command = hightlight,height= 2, width=5)
+customtkinter.CTkButton(content_edit, text = "Clear", command = lambda: threading.Thread(target=clear_textbox).start()
+                        ).grid(row=0, column=1, sticky="e", padx=15)
+customtkinter.CTkButton(content_edit, text = "Update", command = lambda: threading.Thread(target=update_from_text_box).start()
+                        ).grid(row=0, column=2, sticky="e", padx=15)
+hightlight_bt = customtkinter.CTkButton(content_edit, text = "Highlight", command = hightlight_button,state='disabled')
 hightlight_bt.grid(row=0, column=3, sticky="w", padx=15)
 
-text_box = Frame(root)
-text_box.rowconfigure(0, minsize=400, weight=1)
-content = Text(text_box)
+text_scroll = customtkinter.CTkScrollbar(text_box)
+content = customtkinter.CTkTextbox(text_box,width=500, yscrollcommand=text_scroll.set)
 content.insert('1.0','No Term of Service is Provided. Please paste your Term of Service here or import from file')
 content.tag_config('hightlight', background="yellow", foreground="red")
-
-summary = Text(text_box)
+summary = customtkinter.CTkTextbox(text_box,width=500, yscrollcommand=text_scroll.set)
 summary.insert('1.0','No Term of Service is Provided. Please paste your Term of Service here or import from file')
 summary.tag_config('hidden', foreground="white")
-content.grid(row=0, column=0, sticky="nsew")
-summary.grid(row=0, column=1, sticky="nsew")
+text_scroll.configure(command=multiple_yview)
+text_box.columnconfigure(0, weight=1)
+text_box.columnconfigure(1, weight=1)
 
-options.grid(row=0, column=0, sticky="ns")
+content_label = customtkinter.CTkLabel(text_box, text='Original Text')
+summary_label = customtkinter.CTkLabel(text_box, text='Summary')
+content_label.grid(row=0, column=0)
+summary_label.grid(row=0, column=1)
+text_scroll.grid(row=1, column=2, sticky="nsew")
+
+root.columnconfigure(0, weight=0)
+root.columnconfigure(1, weight=10)
+root.rowconfigure(0, weight=10)
+root.rowconfigure(1, weight=0)
+content.grid(row=1, column=0, sticky="nsew")
+summary.grid(row=1, column=1, sticky="nsew")
+
+content_edit.grid(row=2,column=0, sticky="nsew")
+
+options.grid(row=0, column=0, sticky="nsew")
 text_box.grid(row=0, column=1, sticky="nsew")
-edit.grid(row=1,column=1, sticky="nsew")
 
+logo = customtkinter.CTkImage(Image.open('Application/data/unfair-tos.png').resize((300, 300)))
+customtkinter.CTkLabel(root, text = "",image=logo).grid(row =1, column = 0,sticky="nsew")
+customtkinter.set_default_color_theme('blue')
 if highlighter.openai_key == None or highlighter.openai_key == "":
     #set to red color
-    api_warning = Label(root, text ='No OpenAI Key is Provided. Please update it in Setting before using the service', fg = 'red')
-    api_warning.grid(row =3, columnspan=3)
+    api_warning = customtkinter.CTkLabel(root, text ='No OpenAI Key is Provided. Please update it in Setting before using the service', text_color='red')
+    api_warning.grid(row =1, column = 1, columnspan=2)
     
 root.config(menu=menubar)
 root.mainloop()

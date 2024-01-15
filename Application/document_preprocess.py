@@ -44,7 +44,7 @@ class Tos:
         
     @property
     def name(self):
-        if name != None:
+        if self._name != None:
             name = self._name
             #capitalize the first letter of each word
             name = name.split()
