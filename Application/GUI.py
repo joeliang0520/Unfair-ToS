@@ -8,10 +8,6 @@ import pandas as pd
 import re
 from tkinter import ttk
 from PIL import ImageTk, Image
-def donothing():
-   filewin = Toplevel(root)
-   button = Button(filewin, text="Do nothing button")
-   button.pack()
    
 def setting_window(highlighter:Highlighter):
     def change_api_key(highlighter:Highlighter):
@@ -131,7 +127,7 @@ def UploadAction():
             content.insert(INSERT,text)
             global shown_cleaned
             hightlight_bt.configure(state='normal')
-            clean_or_original.grid(row=2, column=0, sticky="ew", padx=5)
+            clean_or_original.grid(row=0, column=4, sticky="ew", padx=5)
             if shown_cleaned == 'Show Original':
                 shown_cleaned = "Show Cleaned"
                 
@@ -171,6 +167,7 @@ def clear_textbox():
             Label(warning2, text ="All texts are successfully removed").pack()
             Button(warning2, text = "OK", command = lambda: warning2.destroy()).pack()
             hightlight_bt.configure(state='disabled')
+            show_demo_bt.configure(state='normal')
         
         Button(warning, text = "OK", command = cleaning).pack()
         Button(warning, text = "Cancel", command = lambda: warning.destroy()).pack()
@@ -217,7 +214,7 @@ def update_from_text_box():
         
         hightlight_bt.configure(state='normal')
         
-        clean_or_original.grid(row=2, column=0, sticky="ew", padx=5)
+        clean_or_original.grid(row=0, column=4, sticky="ew", padx=5)
         global shown_cleaned
         if shown_cleaned == 'Show Original':
             shown_cleaned = "Show Cleaned"
@@ -295,13 +292,6 @@ def hightlight_button(demo):
     window = Toplevel(root)
     window.title("Warning")
     window.geometry("500x400")
-    if demo:
-        print('You are using demo mode')
-        tem = pd.read_csv('/Users/joeliang/Desktop/SynologyDrive/UofT/ECE1786/project/Unfair-ToS/Dataset for Text Summary Model/cleaned/more_than_40_sentences/model_results/Crunchyroll_Terms of Service_summary.csv')
-        clean = pd.read_csv('/Users/joeliang/Desktop/SynologyDrive/UofT/ECE1786/project/Unfair-ToS/Dataset for Text Summary Model/cleaned/more_than_40_sentences/original/Crunchyroll_Terms of Service.csv')
-        highlighter.document.clean_text = clean.iloc[:,0].tolist()
-        highlighter.index = [int(re.sub(r'[^\d]+', '', i)) for i in tem['Highlight'].tolist()]
-        highlighter.highlighted_summary = tem['Summary'].tolist()
     def cost_calculator():
         text = ' '.join(list(highlighter.document.clean_text))
         token = len(text.split(' '))
@@ -315,21 +305,31 @@ def hightlight_button(demo):
             cost = token /750 * 0.03
         return str(cost)
     
-    Label(window, text ="You are about to start the hightlighting process").pack()
-    Label(window, text ="This action is not recoverable and will directly bill to you OpenAI account").pack()
-    Label(window, text ="\n").pack()
-    Label(window, text ="Current Model: "+ highlighter.model).pack()
-    Label(window, text ='Estimated Input Cost based on selected model is ' + cost_calculator()).pack()
-    Label(window, text ="Please make sure you have enough OpenAI credit").pack()
-    Label(window, text ="\n").pack()
-    Label(window, text ="PLEASE PAY ATTENTION",fg='red').pack()
-    Label(window, text ="This is a beta version.",fg='red').pack() 
-    Label(window, text ="Unfair-ToS is not responsible for any cost ocurred when using this service.", fg ='red').pack()
-    Label(window, text ="\n").pack()
+    if demo:
+        print('You are using demo mode')
+        tem = pd.read_csv('Application/data/Crunchyroll_Terms of Service_summary.csv')
+        clean = pd.read_csv('Application/data/Crunchyroll_Terms of Service.csv')
+        highlighter.document.clean_text = clean.iloc[:,0].tolist()
+        highlighter.index = [int(re.sub(r'[^\d]+', '', i)) for i in tem['Highlight'].tolist()]
+        highlighter.highlighted_summary = tem['Summary'].tolist()
+        Label(window, text ="You are using the demo. There will be no cost").pack()
+    else:
+        Label(window, text ="You are about to start the hightlighting process").pack()
+        Label(window, text ="This action is not recoverable and will directly bill to you OpenAI account").pack()
+        Label(window, text ="\n").pack()
+        Label(window, text ="Current Model: "+ highlighter.model).pack()
+        Label(window, text ='Estimated Input Cost based on selected model is ' + cost_calculator()).pack()
+        Label(window, text ="Please make sure you have enough OpenAI credit").pack()
+        Label(window, text ="\n").pack()
+        Label(window, text ="PLEASE PAY ATTENTION",fg='red').pack()
+        Label(window, text ="This is a beta version.",fg='red').pack() 
+        Label(window, text ="Unfair-ToS is not responsible for any cost ocurred when using this service.", fg ='red').pack()
+        Label(window, text ="\n").pack()
     
     def proess(demo):
         window.destroy()
         threading.Thread(target= lambda: hightlight(demo)).start()
+        show_demo_bt.configure(state='disabled')
     
     Button(window, text = "OK", command = lambda: proess(demo)).pack()
     Button(window, text = "Cancel", command = lambda: window.destroy()).pack()
@@ -339,6 +339,7 @@ def show_demo():
     global demo
     demo = True
     hightlight_button(demo)
+    demo = False
 
 def multiple_yview(*args):
     content.yview(*args)
@@ -370,16 +371,19 @@ editmenu.add_command(label="All Setting", command=lambda: setting_window(highlig
 menubar.add_cascade(label="Setting", menu=editmenu)
 
 file_icon = customtkinter.CTkImage(Image.open('Application/data/file.png'))
+setting_icon = customtkinter.CTkImage(Image.open('Application/data/icons8-settings-50.png'))
+demo_icon = customtkinter.CTkImage(Image.open('Application/data/icons8-demo-64.png'))
 options = customtkinter.CTkFrame(root)
-customtkinter.CTkButton(options, text = "Import From File", image=file_icon, 
-                        command = lambda: threading.Thread(target=UploadAction).start()
-                        ).grid(row=0, column=0, padx=5, pady=5)
-customtkinter.CTkButton(options, text = "Setting", command = lambda: setting_window(highlighter)
-                        ).grid(row=1, column=0, padx=5)
-customtkinter.CTkButton(options, text = "Show Demo", command = show_demo
-                        ).grid(row=4, column=0, padx=5, pady=5)
+customtkinter.CTkButton(options, text = "", image=file_icon, 
+                        command = lambda: threading.Thread(target=UploadAction).start(),
+                        width = 50, height = 50,fg_color='transparent').grid(row=0, column=0, padx=5, pady=5)
+customtkinter.CTkButton(options, text = "", image = setting_icon,
+                        command = lambda: setting_window(highlighter),width = 50, height = 50
+                        ,fg_color='transparent').grid(row=1, column=0, padx=5)
+show_demo_bt = customtkinter.CTkButton(options, text = "", image=demo_icon, command = show_demo,
+                                       width = 50, height = 50,fg_color='transparent')
+show_demo_bt.grid(row=4, column=0, padx=5, pady=5)
 shown_cleaned = False
-clean_or_original = customtkinter.CTkSwitch(options,command = lambda: threading.Thread(target=toggle).start(),text='Show Cleaned')
 text_box = customtkinter.CTkFrame(root)
 text_box.rowconfigure(0, weight=0)
 text_box.rowconfigure(1, weight=10)
@@ -388,11 +392,12 @@ text_box.rowconfigure(2, weight=0)
 content_edit = customtkinter.CTkFrame(text_box)
 
 customtkinter.CTkButton(content_edit, text = "Clear", command = lambda: threading.Thread(target=clear_textbox).start()
-                        ).grid(row=0, column=1, sticky="e", padx=15)
+                        ,width=50,height=50).grid(row=0, column=1, sticky="e", padx=15)
 customtkinter.CTkButton(content_edit, text = "Update", command = lambda: threading.Thread(target=update_from_text_box).start()
-                        ).grid(row=0, column=2, sticky="e", padx=15)
-hightlight_bt = customtkinter.CTkButton(content_edit, text = "Highlight", command = hightlight_button,state='disabled')
+                        ,width=50,height=50).grid(row=0, column=2, sticky="e", padx=15)
+hightlight_bt = customtkinter.CTkButton(content_edit, text = "Highlight", height=50,command = lambda:  hightlight_button(demo),state='disabled')
 hightlight_bt.grid(row=0, column=3, sticky="w", padx=15)
+clean_or_original = customtkinter.CTkSwitch(content_edit,command = lambda: threading.Thread(target=toggle).start(),text='Show Cleaned Text')
 
 text_scroll = customtkinter.CTkScrollbar(text_box)
 content = customtkinter.CTkTextbox(text_box,width=500, yscrollcommand=text_scroll.set)
