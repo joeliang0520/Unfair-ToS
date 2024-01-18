@@ -56,7 +56,7 @@ Please use the following guides to access the training datasets, scripts, models
   - **ToS-100-cleaned.csv**: the cleaned dataset for this project, including the original sentences, binary variables for each of the five classes, and a combined variable 'label' for all classes.
   - ToS-100-cleaned-dataset-huggingface: Hugging Face dataset after oversampling, used for fine-tuning the pre-trained GPT-2 model. It is split into 80% training and 20% testing. More information on how to load the dataset into the Hugging Face library can be found [here](https://huggingface.co/docs/datasets/loading).
 
-- The folder **Dataset for Text Summary Model** contains the ToS documents crawled from the ToS;DR website with highlighted sentences by human contributors for text highlighting model. More information about ToS;DR can be found [here](https://tosdr.org/).
+- Due to its size, please use [link](https://drive.google.com/drive/folders/1Iors--UYkz9BbJrslQHTUVts9PfRB22T?usp=sharing) to access the **Dataset for Text Summary Model**. It contains the ToS documents crawled from the ToS;DR website with highlighted sentences by human contributors for text highlighting model. More information about ToS;DR can be found [here](https://tosdr.org/).
   - **html_files** folder contains the raw crawled ToS in HTML format.
   - **text_files** folder contains the raw crawled ToS in TXT format.
   - **cleaned** contains the dataset and model results after cleaning and feeding into the GPT-4 model.
